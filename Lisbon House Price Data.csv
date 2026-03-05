@@ -1,0 +1,247 @@
+Condition,Property Type,Bedrooms,Bathrooms,Area (m2),Parking,Price
+Used,Apartment,3,1,76,0,198000
+Used,Duplex,5,3,190,0,1270000
+Used,Apartment,1,1,26,0,140000
+Used,Apartment,5,4,185,0,995000
+Used,Apartment,7,1,150,0,570000
+Used,Apartment,3,2,95,0,425000
+Used,Apartment,3,1,76,0,130000
+Used,Apartment,3,1,81,0,215000
+Used,Apartment,2,1,58,0,196000
+Used,Apartment,5,3,286,0,925000
+Used,Apartment,2,1,68,0,170000
+Used,Apartment,3,2,97,0,440000
+Used,Apartment,2,2,72,0,235000
+Used,Apartment,3,2,120,0,565000
+Used,Apartment,1,1,65,0,217000
+Used,Apartment,4,2,137,0,450000
+Used,Apartment,1,1,63,0,115000
+Used,Apartment,2,1,70,0,490000
+Used,Apartment,3,2,101,0,350000
+Used,Apartment,2,1,56,0,178000
+Used,Apartment,3,2,90,0,249000
+Used,Apartment,2,1,66,0,155000
+Used,Apartment,4,2,158,0,1350000
+Used,Apartment,1,1,78,0,199900
+Used,Apartment,4,2,117,0,450000
+Used,Apartment,3,1,100,0,390000
+Used,Apartment,3,3,153,0,660000
+Used,Apartment,2,2,76,0,275000
+Used,Apartment,4,2,110,0,320000
+Used,Apartment,1,1,60,0,110000
+Used,Apartment,2,1,60,0,179000
+Used,Apartment,1,1,30,0,125000
+Used,Apartment,2,1,60,0,179000
+Used,Apartment,2,1,50,0,168000
+Used,Apartment,2,1,68,0,125000
+Used,Apartment,3,1,100,0,375000
+Used,Apartment,2,1,64,0,190000
+Used,Apartment,1,1,29,0,85000
+Used,Apartment,1,1,29,0,90000
+Used,Apartment,4,1,110,0,325000
+Used,Apartment,4,2,109,0,300000
+Used,Apartment,3,1,79,0,390000
+Used,Apartment,3,2,130,0,750000
+Used,Apartment,8,6,299,0,1700000
+Used,Apartment,2,1,68,0,295000
+Used,Apartment,2,1,61,0,213500
+Used,Apartment,3,3,195,0,875000
+Used,Apartment,3,1,105,0,350000
+Used,Apartment,1,1,57,0,295000
+Used,Dwelling,5,3,190,0,850000
+Used,Isolated Villa,11,6,573,0,1750000
+New,Penthouse,3,3,230,0,1375000
+New,Apartment,1,1,38,0,350000
+New,Apartment,1,1,32,0,255000
+New,Apartment,1,1,48,0,355000
+New,Duplex,1,1,41,0,295000
+New,Apartment,2,2,111,2,778000
+New,Apartment,2,2,87,2,665000
+New,Apartment,2,2,87,2,665000
+New,Apartment,2,2,93,2,705000
+New,Apartment,2,2,82,2,627000
+New,Apartment,2,2,80,2,598000
+New,Apartment,2,2,69,2,515000
+New,Apartment,2,2,69,2,515000
+New,Apartment,1,1,47,1,349000
+New,Apartment,1,1,47,1,349000
+New,Apartment,1,1,48,1,365000
+New,Apartment,1,1,50,0,275000
+New,Apartment,2,2,93,2,705000
+New,Apartment,1,1,41,1,315000
+New,Apartment,1,1,47,1,349000
+New,Apartment,1,1,48,1,365000
+New,Apartment,1,1,41,1,315000
+New,Apartment,1,1,48,1,365000
+New,Apartment,2,2,80,2,598000
+New,Apartment,3,3,121,2,892000
+New,Apartment,2,2,82,2,627000
+New,Apartment,3,3,152,3,1100000
+New,Apartment,3,3,152,1,910000
+New,Apartment,3,3,157,1,910000
+New,Apartment,3,4,176,0,1350000
+New,Apartment,2,2,80,0,745000
+New,Apartment,1,1,95,0,349000
+New,Apartment,0,1,52,0,285000
+New,Apartment,2,1,139,0,715000
+New,Apartment,3,3,204,0,950000
+New,Apartment,2,1,145,0,740000
+New,Apartment,3,3,227,0,960000
+New,Apartment,3,3,174,0,1000000
+New,Apartment,3,3,139,0,810000
+New,Apartment,3,3,202,0,1030000
+New,Apartment,3,3,202,0,825000
+New,Apartment,3,3,193,0,995000
+New,Apartment,3,3,161,0,805000
+New,Apartment,3,3,195,0,970000
+New,Apartment,3,3,195,0,990000
+New,Apartment,3,3,227,0,960000
+New,Apartment,3,3,217,0,835000
+New,Apartment,3,3,161,0,805000
+New,Apartment,4,4,273,0,1300000
+New,Apartment,4,4,223,0,1250000
+New,Apartment,3,3,180,0,975000
+New,Apartment,2,2,140,0,785000
+New,Apartment,2,3,76,0,659000
+New,Apartment,3,2,206,0,920000
+New,Apartment,1,1,79,0,500000
+New,Apartment,1,1,79,0,510000
+New,Apartment,1,1,76,0,515000
+New,Apartment,1,1,79,0,500000
+New,Apartment,1,1,79,0,500000
+New,Apartment,1,1,79,0,450000
+New,Apartment,1,1,79,0,475000
+New,Apartment,1,1,76,0,515000
+New,Apartment,2,1,152,0,700000
+New,Apartment,2,1,145,0,725000
+New,Apartment,2,1,145,0,740000
+New,Apartment,2,1,139,0,715000
+New,Apartment,2,1,139,0,685000
+New,Apartment,2,1,139,0,700000
+New,Apartment,2,1,139,0,715000
+New,Apartment,2,1,145,0,725000
+New,Apartment,1,1,79,0,500000
+New,Apartment,2,1,152,0,700000
+New,Apartment,2,1,187,0,775000
+New,Apartment,3,2,210,0,975000
+New,Apartment,3,2,175,0,785000
+New,Studio,0,2,48,0,220000
+New,Studio,0,1,41,0,225000
+New,Apartment,1,1,42,0,295000
+New,Apartment,1,1,42,0,265000
+New,Apartment,1,1,42,0,270000
+New,Apartment,1,0,37,0,320000
+New,Apartment,2,2,100,0,420000
+New,Apartment,3,2,90,0,620000
+New,Apartment,3,2,97,0,634000
+New,Apartment,3,3,163,0,699000
+New,Apartment,3,3,163,0,752178
+New,Apartment,3,3,163,0,804678
+New,Apartment,2,3,1450,0,650000
+New,Apartment,2,2,65,0,360000
+New,Apartment,4,3,173,0,650000
+New,Apartment,3,5,185,0,1299000
+New,Apartment,2,3,74,0,490000
+New,Apartment,2,3,74,0,490000
+New,Duplex,6,5,336,0,4150000
+New,Apartment,6,5,359,0,1650000
+New,Duplex,5,4,225,0,1450000
+As New,Apartment,4,2,170,0,560000
+As New,Apartment,1,1,45,0,199900
+As New,Apartment,1,1,135,0,1499000
+As New,Apartment,4,4,245,0,1500000
+As New,Apartment,2,1,91,0,295000
+As New,Apartment,3,2,100,0,375000
+As New,Apartment,1,2,75,0,430000
+As New,Apartment,2,2,104,0,400000
+As New,Apartment,3,3,126,0,520000
+As New,Duplex,3,2,84,0,315000
+As New,Apartment,2,3,113,0,665000
+As New,Apartment,3,3,87,0,320000
+As New,Apartment,1,1,23,0,175000
+As New,Apartment,1,1,26,0,197500
+As New,Apartment,4,3,178,0,848000
+As New,Apartment,1,1,50,0,190000
+As New,Apartment,3,3,144,0,579000
+As New,Apartment,3,2,72,0,475000
+As New,Apartment,2,2,145,0,799000
+As New,Apartment,1,1,50,0,230000
+As New,Apartment,3,3,141,0,479000
+As New,Apartment,1,1,63,0,338000
+As New,Apartment,3,2,88,0,532000
+As New,Apartment,2,1,98,0,700000
+As New,Apartment,4,3,177,0,565000
+As New,Apartment,3,2,100,0,570000
+As New,Apartment,3,2,102,0,525000
+As New,Apartment,2,1,85,0,285000
+As New,Apartment,2,1,45,0,287000
+As New,Duplex,2,2,82,0,395000
+As New,Apartment,1,1,30,0,248000
+As New,Apartment,3,2,90,0,660000
+As New,Apartment,3,4,192,0,1390000
+As New,Apartment,1,1,42,0,161000
+As New,Apartment,2,1,84,0,580000
+As New,Apartment,3,2,130,0,490000
+As New,Apartment,3,3,141,0,795000
+As New,Apartment,2,1,65,0,430000
+As New,Apartment,4,3,164,0,770000
+As New,Apartment,3,2,91,1,375000
+As New,Apart Hotel,0,1,34,0,238000
+As New,Apartment,2,2,83,0,359000
+As New,Apartment,3,2,130,0,350000
+As New,Apartment,2,1,50,0,225000
+As New,Apartment,3,2,59,0,315000
+As New,Duplex,3,3,120,0,620000
+As New,Apartment,2,1,70,0,345000
+As New,Apartment,1,1,50,0,210000
+As New,Apartment,4,5,212,0,2200000
+As New,Duplex,5,4,153,0,1190000
+As New,Apartment,2,2,90,0,319000
+As New,Apartment,2,2,182,0,690000
+As New,Townhouse Dwelling,6,3,208,0,790000
+As New,Townhouse Dwelling,2,3,160,0,1200000
+For Refurbishment,Apartment,3,1,55,0,179000
+For Refurbishment,Apartment,2,1,65,0,163500
+For Refurbishment,Apartment,3,2,130,0,675000
+For Refurbishment,Apartment,2,1,77,0,275000
+For Refurbishment,Apartment,6,2,150,0,700000
+For Refurbishment,Apartment,2,1,58,0,160000
+For Refurbishment,Apartment,3,2,103,0,460000
+For Refurbishment,Apartment,1,1,50,0,149500
+For Refurbishment,Apartment,2,1,62,0,204000
+For Refurbishment,Apartment,4,2,168,0,900000
+For Refurbishment,Apartment,3,1,60,0,165000
+For Refurbishment,Apartment,2,1,60,0,198000
+For Refurbishment,Apartment,3,1,75,0,290000
+For Refurbishment,Duplex,4,2,130,0,520000
+For Refurbishment,Apartment,4,3,130,0,376500
+For Refurbishment,Apartment,3,1,83,0,250000
+For Refurbishment,Apartment,2,1,70,0,125500
+For Refurbishment,Apartment,3,1,85,0,187000
+For Refurbishment,Apartment,3,2,83,0,267000
+For Refurbishment,Apartment,4,2,102,0,249000
+For Refurbishment,Apartment,3,2,107,0,430000
+For Refurbishment,Apartment,3,1,80,0,320000
+For Refurbishment,Apartment,2,1,54,0,275000
+For Refurbishment,Apartment,5,2,136,0,450000
+For Refurbishment,Apartment,3,2,77,0,298000
+For Refurbishment,Apartment,2,1,47,0,235000
+For Refurbishment,Apartment,2,1,56,0,199900
+For Refurbishment,Apartment,1,1,51,0,189000
+For Refurbishment,Apartment,2,1,55,0,170000
+For Refurbishment,Apartment,1,1,51,0,160000
+For Refurbishment,Apartment,4,1,112,0,375000
+For Refurbishment,Apartment,3,1,103,0,325000
+For Refurbishment,Apartment,2,1,100,0,270000
+For Refurbishment,Apartment,2,1,93,0,270000
+For Refurbishment,Apartment,4,2,179,0,630000
+For Refurbishment,Apartment,2,2,51,0,235000
+For Refurbishment,Apartment,5,1,135,0,480000
+For Refurbishment,Apartment,1,1,54,0,240000
+For Refurbishment,Apartment,3,2,113,0,450000
+For Refurbishment,Apartment,2,1,46,0,205000
+For Refurbishment,Apartment,2,1,66,0,196500
+For Refurbishment,Apartment,3,1,75,0,245000
+For Refurbishment,Townhouse Dwelling,2,1,90,0,486000
+For Refurbishment,Dwelling,4,3,121,0,375000
+For Refurbishment,Townhouse Dwelling,2,2,70,0,850000

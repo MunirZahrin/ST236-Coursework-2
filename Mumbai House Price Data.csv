@@ -1,0 +1,1537 @@
+type,area,price,price unit,region,bathrooms,bedrooms
+Apartment,685,2.5,Cr,Andheri West,1,1
+Apartment,640,52.51,L,Naigaon East,1,1
+Apartment,610,1.73,Cr,Borivali West,1,1
+Apartment,876,59.98,L,Panvel,1,1
+Apartment,659,94.11,L,Mira Road East,1,1
+Apartment,826,3.3,Cr,Parel,1,1
+Villa,2921,1.99,Cr,Boisar,1,3
+Apartment,778,2.89,Cr,Santacruz East,1,1
+Apartment,396,29.84,L,Badlapur East,1,1
+Apartment,671,2.72,Cr,Fort,1,1
+Studio Apartment,502,16.56,L,Badlapur West,1,1
+Apartment,950,41.75,L,Khopoli,1,1
+Apartment,753,1.77,Cr,Chembur,1,1
+Apartment,605,1.55,Cr,Jogeshwari West,1,1
+Apartment,557,58.5,L,Vasai,1,1
+Apartment,635,83,L,Kalamboli,1,1
+Apartment,450,1.39,Cr,Powai,1,1
+Apartment,1259,2.8,Cr,Ghansoli,1,1
+Apartment,555,1.42,Cr,Thane West,1,1
+Apartment,1274,4.2,Cr,Andheri West,1,1
+Apartment,582,1.49,Cr,Vikhroli,1,1
+Apartment,483,37.52,L,Bhiwandi,1,1
+Apartment,320,69.9,L,Chembur,1,1
+Apartment,396,42.99,L,Thane West,1,1
+Apartment,638,1.26,Cr,Airoli,1,1
+Apartment,1047,49.58,L,Ambernath West,1,1
+Apartment,1080,57.24,L,Bhiwandi,1,1
+Apartment,555,1.31,Cr,Borivali East,1,1
+Apartment,261,47.5,L,Panvel,1,1
+Apartment,594,34.5,L,Ambernath West,1,1
+Apartment,445,34.14,L,Virar,1,1
+Apartment,409,32,L,Panvel,1,1
+Apartment,1874,2.7,Cr,Kharghar,1,2
+Apartment,450,54.99,L,Ulwe,1,1
+Apartment,859,1.37,Cr,Panvel,1,1
+Apartment,720,1.31,Cr,Thane West,1,1
+Apartment,404,58,L,Kamothe,1,1
+Apartment,604,1.44,Cr,Jogeshwari East,1,1
+Apartment,1116,2.85,Cr,Mulund West,1,1
+Independent House,701,30.99,L,Palghar,1,1
+Apartment,902,2.59,Cr,Goregaon West,1,1
+Apartment,990,45.45,L,Taloja,1,1
+Apartment,313,27.56,L,Rasayani,1,1
+Apartment,409,30.15,L,Thane West,1,1
+Apartment,560,1.32,Cr,Mulund West,1,1
+Apartment,448,1.34,Cr,Ghatkopar East,1,1
+Apartment,386,27.96,L,Taloja,1,1
+Apartment,539,46.21,L,Ulhasnagar,1,1
+Apartment,1625,1.45,Cr,Ulwe,1,1
+Apartment,685,2.5,Cr,Andheri West,1,1
+Apartment,640,52.51,L,Naigaon East,1,1
+Apartment,610,1.73,Cr,Borivali West,1,1
+Apartment,876,59.98,L,Panvel,1,1
+Apartment,659,94.11,L,Mira Road East,1,1
+Apartment,826,3.3,Cr,Parel,1,1
+Villa,2921,1.99,Cr,Boisar,1,3
+Apartment,778,2.89,Cr,Santacruz East,1,1
+Apartment,396,29.84,L,Badlapur East,1,1
+Apartment,739,2.95,Cr,Fort,1,1
+Apartment,635,20.95,L,Badlapur West,1,1
+Apartment,950,41.75,L,Khopoli,1,1
+Apartment,753,1.77,Cr,Chembur,1,1
+Apartment,605,1.55,Cr,Jogeshwari West,1,1
+Apartment,477,51,L,Vasai,1,1
+Apartment,635,83,L,Kalamboli,1,1
+Apartment,450,1.39,Cr,Powai,1,1
+Apartment,1259,2.8,Cr,Ghansoli,1,1
+Apartment,515,1.24,Cr,Thane West,1,1
+Apartment,1274,4.2,Cr,Andheri West,1,1
+Apartment,582,1.49,Cr,Vikhroli,1,1
+Apartment,720,57.07,L,Bhiwandi,1,1
+Apartment,320,69.9,L,Chembur,1,1
+Apartment,396,42.99,L,Thane West,1,1
+Apartment,465,90,L,Airoli,1,1
+Apartment,1047,49.58,L,Ambernath West,1,1
+Apartment,1080,57.24,L,Bhiwandi,1,1
+Apartment,555,1.31,Cr,Borivali East,1,1
+Apartment,261,47.49,L,Panvel,1,1
+Apartment,528,31.5,L,Ambernath West,1,1
+Apartment,586,45.03,L,Virar,1,1
+Apartment,563,42,L,Panvel,1,1
+Apartment,990,1.51,Cr,Kharghar,1,1
+Apartment,709,1.14,Cr,Panvel,1,1
+Apartment,1300,2.54,Cr,Thane West,1,2
+Apartment,628,90,L,Kamothe,1,1
+Apartment,587,1.4,Cr,Jogeshwari East,1,1
+Apartment,1056,2.45,Cr,Mulund West,1,1
+Independent House,701,30.99,L,Palghar,1,1
+Apartment,902,2.59,Cr,Goregaon West,1,1
+Apartment,695,31.8,L,Taloja,1,1
+Apartment,313,27.56,L,Rasayani,1,1
+Studio Apartment,270,20.39,L,Thane West,1,1
+Apartment,625,1.47,Cr,Mulund West,1,1
+Apartment,639,1.91,Cr,Ghatkopar East,1,1
+Apartment,614,44.44,L,Taloja,1,1
+Apartment,365,29.02,L,Ulhasnagar,1,1
+Apartment,750,57,L,Ulwe,1,1
+Apartment,425,33.49,L,Naigaon East,1,1
+Apartment,845,2.35,Cr,Borivali West,1,1
+Apartment,473,69.65,L,Mira Road East,1,1
+Apartment,425,33.49,L,Naigaon East,1,1
+Apartment,618,50.5,L,Naigaon East,1,1
+Apartment,618,50.5,L,Naigaon East,1,1
+Apartment,430,34.91,L,Naigaon East,1,1
+Apartment,430,34.91,L,Naigaon East,1,1
+Apartment,845,2.35,Cr,Borivali West,1,1
+Apartment,610,1.73,Cr,Borivali West,1,1
+Apartment,610,1.73,Cr,Borivali West,1,1
+Apartment,845,2.35,Cr,Borivali West,1,1
+Apartment,845,2.35,Cr,Borivali West,1,1
+Apartment,425,36,L,Dombivali,1,1
+Apartment,425,36,L,Dombivali,1,1
+Apartment,651,56,L,Dombivali,1,1
+Apartment,651,56,L,Dombivali,1,1
+Apartment,425,36,L,Dombivali,1,1
+Apartment,425,36,L,Dombivali,1,1
+Apartment,651,56,L,Dombivali,1,1
+Apartment,651,56,L,Dombivali,1,1
+Apartment,473,69.65,L,Mira Road East,1,1
+Apartment,946,1.38,Cr,Mira Road East,1,1
+Apartment,946,1.38,Cr,Mira Road East,1,1
+Apartment,667,94.99,L,Mira Road East,1,1
+Apartment,667,94.99,L,Mira Road East,1,1
+Apartment,682,97.14,L,Mira Road East,1,1
+Apartment,682,97.14,L,Mira Road East,1,1
+Apartment,1133,4.79,Cr,Parel,1,1
+Apartment,1133,4.79,Cr,Parel,1,1
+Villa,2187,1.49,Cr,Boisar,1,1
+Villa,2187,1.49,Cr,Boisar,1,1
+Apartment,579,1.81,Cr,Santacruz East,1,1
+Apartment,579,1.81,Cr,Santacruz East,1,1
+Apartment,486,36,L,Badlapur East,1,1
+Apartment,486,36,L,Badlapur East,1,1
+Apartment,361,28,L,Badlapur East,1,1
+Apartment,361,28,L,Badlapur East,1,1
+Apartment,377,28.2,L,Badlapur East,1,1
+Apartment,377,28.2,L,Badlapur East,1,1
+Apartment,382,28.61,L,Badlapur East,1,1
+Apartment,382,28.61,L,Badlapur East,1,1
+Apartment,535,17.65,L,Badlapur West,1,1
+Apartment,565,18.64,L,Badlapur West,1,1
+Studio Apartment,380,13.68,L,Badlapur West,1,1
+Apartment,345,19.91,L,Badlapur West,1,1
+Apartment,352,20.5,L,Badlapur West,1,1
+Apartment,294,16,L,Badlapur West,1,1
+Apartment,366,21.28,L,Badlapur West,1,1
+Apartment,333,19.33,L,Badlapur West,1,1
+Apartment,358,20.89,L,Badlapur West,1,1
+Apartment,372,21.67,L,Badlapur West,1,1
+Apartment,380,22.06,L,Badlapur West,1,1
+Apartment,675,30,L,Khopoli,1,1
+Apartment,675,30,L,Khopoli,1,1
+Apartment,970,42.75,L,Khopoli,1,1
+Apartment,970,42.75,L,Khopoli,1,1
+Apartment,605,26.5,L,Khopoli,1,1
+Apartment,605,26.5,L,Khopoli,1,1
+Apartment,555,24,L,Khopoli,1,1
+Apartment,555,24,L,Khopoli,1,1
+Apartment,665,29.5,L,Khopoli,1,1
+Apartment,665,29.5,L,Khopoli,1,1
+Apartment,615,27,L,Khopoli,1,1
+Apartment,615,27,L,Khopoli,1,1
+Apartment,975,43,L,Khopoli,1,1
+Apartment,975,43,L,Khopoli,1,1
+Apartment,535,22,L,Khopoli,1,1
+Apartment,535,22,L,Khopoli,1,1
+Apartment,545,23.5,L,Khopoli,1,1
+Apartment,545,23.5,L,Khopoli,1,1
+Apartment,930,41,L,Khopoli,1,1
+Apartment,930,41,L,Khopoli,1,1
+Apartment,565,24.5,L,Khopoli,1,1
+Apartment,565,24.5,L,Khopoli,1,1
+Apartment,543,1.28,Cr,Chembur,1,1
+Apartment,543,1.28,Cr,Chembur,1,1
+Apartment,859,2.02,Cr,Chembur,1,1
+Apartment,859,2.02,Cr,Chembur,1,1
+Apartment,590,1.39,Cr,Chembur,1,1
+Apartment,590,1.39,Cr,Chembur,1,1
+Apartment,430,1.01,Cr,Chembur,1,1
+Apartment,430,1.01,Cr,Chembur,1,1
+Apartment,705,1.66,Cr,Chembur,1,1
+Apartment,705,1.66,Cr,Chembur,1,1
+Apartment,421,99,L,Chembur,1,1
+Apartment,421,99,L,Chembur,1,1
+Apartment,610,1.56,Cr,Jogeshwari West,1,1
+Apartment,610,1.56,Cr,Jogeshwari West,1,1
+Apartment,708,74.62,L,Vasai,1,1
+Apartment,691,72.81,L,Vasai,1,1
+Apartment,829,87.21,L,Vasai,1,1
+Apartment,680,71.01,L,Vasai,1,1
+Apartment,695,73.21,L,Vasai,1,1
+Apartment,749,79.89,L,Vasai,1,1
+Apartment,1014,1.06,Cr,Vasai,1,1
+Apartment,461,38,L,Panvel,1,1
+Apartment,461,38,L,Panvel,1,1
+Apartment,608,46,L,Panvel,1,1
+Apartment,608,46,L,Panvel,1,1
+Apartment,431,1.35,Cr,Powai,1,1
+Apartment,431,1.35,Cr,Powai,1,1
+Apartment,454,63,L,Kalamboli,1,1
+Apartment,454,63,L,Kalamboli,1,1
+Apartment,490,58,L,Kalamboli,1,1
+Apartment,490,58,L,Kalamboli,1,1
+Apartment,1091,1.31,Cr,Kalamboli,1,1
+Apartment,1091,1.31,Cr,Kalamboli,1,1
+Apartment,666,82,L,Kalamboli,1,1
+Apartment,666,82,L,Kalamboli,1,1
+Apartment,725,1.7,Cr,Ghansoli,1,1
+Apartment,725,1.7,Cr,Ghansoli,1,1
+Apartment,1492,3.4,Cr,Ghansoli,1,2
+Apartment,1492,3.4,Cr,Ghansoli,1,2
+Apartment,715,1.68,Cr,Ghansoli,1,1
+Apartment,715,1.68,Cr,Ghansoli,1,1
+Apartment,505,1.08,Cr,Ghansoli,1,1
+Apartment,505,1.08,Cr,Ghansoli,1,1
+Apartment,555,1.42,Cr,Thane West,1,1
+Apartment,644,1.58,Cr,Thane West,1,1
+Apartment,515,1.24,Cr,Thane West,1,1
+Apartment,644,1.58,Cr,Thane West,1,1
+Apartment,635,1.65,Cr,Thane West,1,1
+Apartment,505,1.08,Cr,Ghansoli,1,1
+Apartment,1969,6.89,Cr,Andheri West,1,2
+Apartment,1969,6.89,Cr,Andheri West,1,2
+Apartment,720,57.07,L,Bhiwandi,1,1
+Apartment,514,38.74,L,Bhiwandi,1,1
+Apartment,514,38.74,L,Bhiwandi,1,1
+Apartment,685,2.26,Cr,Andheri West,1,1
+Apartment,685,2.26,Cr,Andheri West,1,1
+Apartment,1236,4.08,Cr,Andheri West,1,1
+Apartment,1236,4.08,Cr,Andheri West,1,1
+Apartment,1002,47.45,L,Ambernath West,1,1
+Apartment,1002,47.45,L,Ambernath West,1,1
+Apartment,840,38.27,L,Ambernath West,1,1
+Apartment,840,38.27,L,Ambernath West,1,1
+Apartment,702,31.99,L,Ambernath West,1,1
+Apartment,702,31.99,L,Ambernath West,1,1
+Apartment,1030,48.78,L,Ambernath West,1,1
+Apartment,1030,48.78,L,Ambernath West,1,1
+Apartment,1027,48.63,L,Ambernath West,1,1
+Apartment,1027,48.63,L,Ambernath West,1,1
+Apartment,730,33.26,L,Ambernath West,1,1
+Apartment,730,33.26,L,Ambernath West,1,1
+Apartment,790,36,L,Ambernath West,1,1
+Apartment,790,36,L,Ambernath West,1,1
+Apartment,950,44.99,L,Ambernath West,1,1
+Apartment,950,44.99,L,Ambernath West,1,1
+Apartment,1063,50.34,L,Ambernath West,1,1
+Apartment,1063,50.34,L,Ambernath West,1,1
+Apartment,1057,50.05,L,Ambernath West,1,1
+Apartment,1057,50.05,L,Ambernath West,1,1
+Apartment,1008,47.73,L,Ambernath West,1,1
+Apartment,1008,47.73,L,Ambernath West,1,1
+Apartment,1070,50.67,L,Ambernath West,1,1
+Apartment,1070,50.67,L,Ambernath West,1,1
+Apartment,812,37,L,Ambernath West,1,1
+Apartment,812,37,L,Ambernath West,1,1
+Apartment,1012,47.92,L,Ambernath West,1,1
+Apartment,1012,47.92,L,Ambernath West,1,1
+Apartment,740,39.22,L,Bhiwandi,1,1
+Apartment,740,39.22,L,Bhiwandi,1,1
+Apartment,1045,55.38,L,Bhiwandi,1,1
+Apartment,1045,55.38,L,Bhiwandi,1,1
+Apartment,690,36.57,L,Bhiwandi,1,1
+Apartment,690,36.57,L,Bhiwandi,1,1
+Apartment,1085,57.5,L,Bhiwandi,1,1
+Apartment,1085,57.5,L,Bhiwandi,1,1
+Apartment,1060,56.18,L,Bhiwandi,1,1
+Apartment,1060,56.18,L,Bhiwandi,1,1
+Apartment,795,42.13,L,Bhiwandi,1,1
+Apartment,795,42.13,L,Bhiwandi,1,1
+Apartment,384,91.01,L,Borivali East,1,1
+Apartment,384,91.01,L,Borivali East,1,1
+Apartment,558,1.32,Cr,Borivali East,1,1
+Apartment,558,1.32,Cr,Borivali East,1,1
+Apartment,557,1.32,Cr,Borivali East,1,1
+Apartment,557,1.32,Cr,Borivali East,1,1
+Apartment,618,1.46,Cr,Borivali East,1,1
+Apartment,618,1.46,Cr,Borivali East,1,1
+Apartment,501,29.5,L,Ambernath West,1,1
+Apartment,399,24.5,L,Ambernath West,1,1
+Apartment,440,26.5,L,Ambernath West,1,1
+Apartment,635,36.5,L,Ambernath West,1,1
+Apartment,569,33,L,Ambernath West,1,1
+Apartment,464,27.5,L,Ambernath West,1,1
+Apartment,422,26,L,Ambernath West,1,1
+Apartment,937,1.35,Cr,Kharghar,1,1
+Apartment,945,1.44,Cr,Kharghar,1,1
+Apartment,2135,3.14,Cr,Kharghar,1,3
+Apartment,1198,1.79,Cr,Kharghar,1,1
+Apartment,2396,3.59,Cr,Kharghar,2,3
+Apartment,1698,2.48,Cr,Kharghar,1,1
+Apartment,895,1.42,Cr,Panvel,1,1
+Apartment,601,97.92,L,Panvel,1,1
+Apartment,679,1.24,Cr,Thane West,1,1
+Apartment,887,1.87,Cr,Thane West,1,1
+Apartment,692,53,L,Virar,1,1
+Apartment,487,36.99,L,Virar,1,1
+Apartment,515,75,L,Kamothe,1,1
+Apartment,427,1.02,Cr,Jogeshwari East,1,1
+Apartment,380,91.2,L,Jogeshwari East,1,1
+Apartment,517,1.24,Cr,Jogeshwari East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1000,32,L,Ambernath West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,950,80,L,Ulwe,1,1
+Apartment,950,55,L,Kewale,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,2100,3.25,Cr,Santacruz East,1,2
+Apartment,720,47,L,Dombivali,1,1
+Apartment,1530,2.85,Cr,Borivali East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,560,25,L,Nala Sopara,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,400,79.8,L,Goregaon East,1,1
+Apartment,530,22.79,L,Palghar,1,1
+Apartment,920,65,L,Dombivali,1,1
+Apartment,550,25,L,Taloja,1,1
+Apartment,650,20,L,Boisar,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1500,5.6,Cr,Kandivali East,1,2
+Apartment,650,20,L,Andheri West,1,1
+Apartment,520,25,L,Nala Sopara,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,453,85,L,Thane West,1,1
+Apartment,650,1,Cr,Parel,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,920,1.1,Cr,Kurla,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,570,55,L,Thane West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,750,45,L,Kalamboli,1,1
+Apartment,500,10,L,Taloja,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,677,30,L,Panvel,1,1
+Apartment,650,35,L,Panvel,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1015,2.45,Cr,Mulund West,1,1
+Apartment,1116,2.85,Cr,Mulund West,1,1
+Apartment,1116,2.85,Cr,Mulund West,1,1
+Apartment,1056,2.45,Cr,Mulund West,1,1
+Apartment,1056,2.45,Cr,Mulund West,1,1
+Apartment,1015,2.45,Cr,Mulund West,1,1
+Apartment,1015,2.45,Cr,Mulund West,1,1
+Apartment,1116,2.85,Cr,Mulund West,1,1
+Apartment,1056,2.45,Cr,Mulund West,1,1
+Apartment,1015,2.45,Cr,Mulund West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1076,3.19,Cr,Andheri East,1,1
+Apartment,1076,3.19,Cr,Andheri East,1,1
+Apartment,1076,3.19,Cr,Andheri East,1,1
+Apartment,718,2.12,Cr,Andheri East,1,1
+Apartment,1076,3.19,Cr,Andheri East,1,1
+Apartment,758,2.24,Cr,Andheri East,1,1
+Apartment,718,2.12,Cr,Andheri East,1,1
+Apartment,991,2.94,Cr,Andheri East,1,1
+Apartment,758,2.24,Cr,Andheri East,1,1
+Apartment,991,2.94,Cr,Andheri East,1,1
+Apartment,618,1.82,Cr,Andheri East,1,1
+Apartment,618,1.82,Cr,Andheri East,1,1
+Apartment,1033,3.06,Cr,Andheri East,1,1
+Apartment,1033,3.06,Cr,Andheri East,1,1
+Apartment,913,2.7,Cr,Andheri East,1,1
+Apartment,913,2.7,Cr,Andheri East,1,1
+Apartment,866,2.57,Cr,Andheri East,1,1
+Apartment,866,2.57,Cr,Andheri East,1,1
+Apartment,562,1.7,Cr,Andheri East,1,1
+Apartment,562,1.7,Cr,Andheri East,1,1
+Apartment,948,2.81,Cr,Andheri East,1,1
+Apartment,948,2.81,Cr,Andheri East,1,1
+Apartment,894,1.86,Cr,Mira Road East,1,1
+Apartment,668,1.35,Cr,Mira Road East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,555,15.5,L,Boisar,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,729,51,L,Dahisar,1,1
+Apartment,1020,1.1,Cr,Mira Road East,1,1
+Apartment,1035,1.15,Cr,Mira Road East,1,1
+Apartment,1070,89,L,Mira Road East,1,1
+Apartment,1070,93,L,Mira Road East,1,1
+Apartment,1050,83,L,Mira Road East,1,1
+Apartment,1050,80,L,Mira Road East,1,1
+Apartment,1021,1.11,Cr,Mira Road East,1,1
+Apartment,1045,79,L,Dahisar,1,1
+Apartment,1039,80,L,Dahisar,1,1
+Apartment,1080,1.14,Cr,Mira Road East,1,1
+Apartment,750,73,L,Mira Road East,1,1
+Apartment,650,62,L,Mira Road East,1,1
+Apartment,1050,79,L,Mira Road East,1,1
+Apartment,1050,80,L,Mira Road East,1,1
+Apartment,1020,85,L,Mira Road East,1,1
+Apartment,785,93,L,Mira Road East,1,1
+Apartment,765,91,L,Mira Road East,1,1
+Apartment,850,1.15,Cr,Mira Road East,1,1
+Apartment,850,1.11,Cr,Mira Road East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,620,60,L,Mira Road East,1,1
+Apartment,856,1.18,Cr,Mira Road East,1,1
+Apartment,750,70,L,Mira Road East,1,1
+Apartment,768,90,L,Mira Road East,1,1
+Apartment,856,1.19,Cr,Mira Road East,1,1
+Apartment,756,73,L,Mira Road East,1,1
+Apartment,850,1.05,Cr,Mira Road East,1,1
+Apartment,675,74,L,Mira Road East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,600,33.6,L,Karanjade,1,1
+Apartment,520,21.5,L,Thane West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,685,36.37,L,Vasai,1,1
+Apartment,870,95,L,Mira Road East,1,1
+Apartment,1665,1.99,Cr,Mira Road East,1,1
+Apartment,1050,90,L,Mira Road East,1,1
+Apartment,756,77,L,Mira Road East,1,1
+Apartment,785,76,L,Mira Road East,1,1
+Apartment,860,38.7,L,Palghar,1,1
+Apartment,600,30,L,Kharghar,1,1
+Studio Apartment,380,14,L,Palghar,1,1
+Apartment,600,18,L,Mahim,1,1
+Apartment,581,1.25,Cr,Ghatkopar East,1,1
+Apartment,810,1.18,Cr,Mira Road East,1,1
+Apartment,1200,1.85,Cr,Mira Road East,1,1
+Apartment,856,79,L,Mira Road East,1,1
+Apartment,856,80,L,Mira Road East,1,1
+Apartment,629,55,L,Dahisar,1,1
+Apartment,620,56,L,Dahisar,1,1
+Apartment,850,78,L,Dahisar,1,1
+Apartment,850,79,L,Dahisar,1,1
+Apartment,1350,2.15,Cr,Mira Road East,1,1
+Apartment,1070,95,L,Mira Road East,1,1
+Apartment,789,98,L,Mira Road East,1,1
+Apartment,659,59,L,Mira Road East,1,1
+Apartment,789,98,L,Mira Road East,1,1
+Apartment,659,59,L,Mira Road East,1,1
+Apartment,656,61,L,Mira Road East,1,1
+Apartment,850,78,L,Mira Road East,1,1
+Apartment,825,1.1,Cr,Mira Road East,1,1
+Studio Apartment,380,14,L,Palghar,1,1
+Apartment,600,18,L,Mahim,1,1
+Apartment,600,30,L,Kharghar,1,1
+Apartment,650,45.5,L,Dombivali,1,1
+Apartment,1555,2.56,Cr,Vashi,1,1
+Apartment,1125,1,Cr,Kharghar,1,1
+Apartment,1233,2.75,Cr,Malad West,1,1
+Studio Apartment,415,95,L,Girgaon,1,1
+Apartment,430,1.25,Cr,Andheri West,1,1
+Apartment,1070,81,L,Ulwe,1,1
+Studio Apartment,335,17.5,L,Vasai,1,1
+Apartment,535,27.21,L,Vasai,1,1
+Apartment,1180,4.75,Cr,Dadar West,1,1
+Apartment,1090,1.8,Cr,Kandivali East,1,1
+Apartment,850,1.15,Cr,Mira Road East,1,1
+Independent House,701,30.99,L,Palghar,1,1
+Independent House,701,30.99,L,Palghar,1,1
+Apartment,1525,3.25,Cr,Borivali West,1,1
+Apartment,965,85,L,Bandra West,1,1
+Apartment,1300,2.3,Cr,Powai,1,1
+Apartment,2500,4.4,Cr,Kandivali West,1,2
+Apartment,655,50,L,Kalyan West,1,1
+Apartment,950,3.4,Cr,Mahim,1,1
+Apartment,560,21,L,Neral,1,1
+Apartment,939,2.58,Cr,Mulund West,1,1
+Apartment,941,37,L,Kalyan East,1,1
+Apartment,905,2.75,Cr,Powai,1,1
+Apartment,905,2.75,Cr,Powai,1,1
+Apartment,905,2.75,Cr,Powai,1,1
+Apartment,905,2.75,Cr,Powai,1,1
+Apartment,944,2.86,Cr,Powai,1,1
+Apartment,944,2.86,Cr,Powai,1,1
+Apartment,611,1.75,Cr,Powai,1,1
+Apartment,611,1.75,Cr,Powai,1,1
+Apartment,615,1.76,Cr,Powai,1,1
+Apartment,615,1.76,Cr,Powai,1,1
+Apartment,575,23.79,L,Karjat,1,1
+Apartment,735,32.42,L,Karjat,1,1
+Apartment,840,37.06,L,Karjat,1,1
+Apartment,540,22.34,L,Karjat,1,1
+Apartment,460,19.03,L,Karjat,1,1
+Apartment,490,20.27,L,Karjat,1,1
+Apartment,795,35.07,L,Karjat,1,1
+Apartment,530,21.93,L,Karjat,1,1
+Apartment,595,24.62,L,Karjat,1,1
+Apartment,755,33.31,L,Karjat,1,1
+Apartment,435,18,L,Karjat,1,1
+Apartment,680,30,L,Karjat,1,1
+Apartment,715,31.54,L,Karjat,1,1
+Apartment,780,34.41,L,Karjat,1,1
+Apartment,645,1.92,Cr,Goregaon West,1,1
+Apartment,645,1.92,Cr,Goregaon West,1,1
+Apartment,902,2.59,Cr,Goregaon West,1,1
+Apartment,902,2.59,Cr,Goregaon West,1,1
+Apartment,645,1.92,Cr,Goregaon West,1,1
+Apartment,645,1.92,Cr,Goregaon West,1,1
+Apartment,411,32.5,L,Taloja,1,1
+Apartment,411,32.5,L,Taloja,1,1
+Apartment,411,32.5,L,Taloja,1,1
+Apartment,411,32.5,L,Taloja,1,1
+Apartment,553,44,L,Taloja,1,1
+Apartment,553,44,L,Taloja,1,1
+Apartment,400,32,L,Taloja,1,1
+Apartment,400,32,L,Taloja,1,1
+Apartment,583,45,L,Taloja,1,1
+Apartment,583,45,L,Taloja,1,1
+Apartment,1150,2.8,Cr,Andheri West,1,2
+Apartment,1227,91,L,Ulwe,1,1
+Apartment,1152,88,L,Ulwe,1,1
+Apartment,1135,62,L,Dombivali,1,2
+Studio Apartment,400,23,L,Ulwe,1,1
+Apartment,580,80,L,Ghatkopar West,1,1
+Apartment,420,1,Cr,Andheri West,1,1
+Apartment,380,88,L,Borivali East,1,1
+Apartment,764,1.85,Cr,Borivali East,1,1
+Apartment,500,77,L,Mira Road East,1,1
+Apartment,550,41.41,L,Thane West,1,1
+Independent House,1490,1.8,Cr,Nala Sopara,1,2
+Apartment,515,25,L,Airoli,1,1
+Apartment,1100,1,Cr,Bandra West,1,1
+Apartment,685,45,L,Kalyan West,1,1
+Apartment,450,41.37,L,Dronagiri,1,1
+Apartment,650,57.99,L,Dronagiri,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1980,1.75,Cr,Mulund East,1,1
+Apartment,1750,5.75,Cr,Powai,1,1
+Apartment,650,27.62,L,Taloja,1,1
+Apartment,1000,68.5,L,Kharghar,1,1
+Apartment,690,62,L,Panvel,1,1
+Studio Apartment,400,18,L,Badlapur East,1,1
+Apartment,1017,1.59,Cr,Goregaon West,1,1
+Apartment,1265,1.55,Cr,Thane West,1,1
+Apartment,700,37,L,Navade,1,1
+Apartment,625,21.9,L,Kamothe,1,1
+Apartment,1350,2.1,Cr,Thane West,1,1
+Apartment,675,28,L,Kewale,1,1
+Apartment,700,28.51,L,Kewale,1,1
+Apartment,700,28.51,L,Kewale,1,1
+Apartment,770,42,L,Kharghar,1,1
+Apartment,1062,75,L,Ambivali,1,1
+Apartment,1360,2.7,Cr,Ghatkopar West,1,1
+Apartment,500,27.6,L,Dombivali,1,1
+Apartment,1100,1.99,Cr,Chembur,1,1
+Apartment,650,2.62,Cr,Agripada,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1090,1.16,Cr,Mira Road East,1,1
+Apartment,989,37,L,Ambernath West,1,1
+Studio Apartment,275,45,L,Andheri East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1400,1.4,Cr,Owale,1,1
+Apartment,1152,84,L,Ulwe,1,1
+Apartment,800,2.5,Cr,Ville Parle East,1,1
+Apartment,672,1.03,Cr,Thane West,1,1
+Apartment,330,49.98,L,Thane West,1,1
+Apartment,343,51.95,L,Thane West,1,1
+Apartment,659,1.01,Cr,Thane West,1,1
+Apartment,489,74.98,L,Thane West,1,1
+Apartment,505,77.44,L,Thane West,1,1
+Apartment,973,30,L,Neral,1,1
+Apartment,1000,2.75,Cr,Ville Parle East,1,1
+Apartment,875,50,L,Vasai,1,1
+Apartment,498,69.99,L,Thane West,1,1
+Apartment,650,38,L,Panvel,1,1
+Apartment,1145,75,L,Panvel,1,1
+Apartment,575,60,L,Kalwa,1,1
+Apartment,1300,3.19,Cr,Borivali East,1,1
+Apartment,670,26.5,L,Badlapur East,1,1
+Apartment,1150,59,L,Kharghar,1,1
+Apartment,1100,79.99,L,Khar,1,1
+Apartment,700,48.99,L,Naigaon East,1,1
+Apartment,695,34.2,L,Vasai,1,1
+Apartment,2920,12,Cr,Santacruz West,2,2
+Apartment,980,45.97,L,Dombivali,1,1
+Apartment,1150,1.75,Cr,Nerul,1,1
+Apartment,978,1.9,Cr,Mulund West,1,1
+Apartment,565,19.5,L,Nala Sopara,1,1
+Apartment,850,40,L,Nala Sopara,1,1
+Apartment,298,27,L,Rasayani,1,1
+Apartment,298,27,L,Rasayani,1,1
+Apartment,313,27.56,L,Rasayani,1,1
+Apartment,313,27.56,L,Rasayani,1,1
+Apartment,298,27,L,Rasayani,1,1
+Apartment,298,27,L,Rasayani,1,1
+Apartment,600,18,L,Mahim,1,1
+Apartment,676,1.5,Cr,Kanjurmarg,1,1
+Apartment,750,84,L,Thane West,1,1
+Apartment,650,1.34,Cr,Kanjurmarg,1,1
+Apartment,964,54.5,L,Dombivali,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,39,L,Ulwe,1,1
+Apartment,425,21.54,L,Dahisar,1,1
+Apartment,935,44.5,L,Ambernath West,1,1
+Apartment,450,89,L,Vangani,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1655,2.55,Cr,Powai,1,1
+Apartment,512,65,L,Ulwe,1,1
+Apartment,1275,69.99,L,Nala Sopara,1,1
+Apartment,854,1.55,Cr,Santacruz East,1,1
+Apartment,830,56.61,L,Kalyan West,1,1
+Apartment,540,1,Cr,Ghatkopar West,1,1
+Apartment,1080,1.9,Cr,Malad West,1,1
+Apartment,660,51,L,Dombivali,1,1
+Apartment,790,3.75,Cr,Bandra West,1,1
+Apartment,660,71,L,Airoli,1,1
+Apartment,550,36,L,Dombivali,1,1
+Apartment,671,43,L,Dombivali,1,1
+Apartment,506,24.3,L,Karjat,1,1
+Apartment,1230,1.35,Cr,Mira Road East,1,1
+Apartment,475,2.75,Cr,Khar,1,1
+Apartment,600,95,L,Goregaon West,1,1
+Apartment,850,59.5,L,Vasai,1,1
+Apartment,600,2.35,Cr,Santacruz West,1,1
+Apartment,395,55.99,L,Bhayandar East,1,1
+Apartment,496,15,L,Boisar,1,1
+Apartment,525,21,L,Vasai,1,1
+Studio Apartment,405,17,L,Vasai,1,1
+Apartment,1090,1.1,Cr,Mira Road East,1,1
+Apartment,658,1.3,Cr,Andheri East,1,1
+Apartment,475,17.5,L,Palghar,1,1
+Apartment,600,22,L,Karjat,1,1
+Apartment,1800,3.6,Cr,Andheri West,1,1
+Apartment,1250,89,L,Seawoods,1,1
+Apartment,800,55,L,Andheri West,1,1
+Apartment,528,24.19,L,Karjat,1,1
+Apartment,528,24.19,L,Karjat,1,1
+Apartment,276,14,L,Karjat,1,1
+Apartment,276,14,L,Karjat,1,1
+Apartment,528,24.19,L,Karjat,1,1
+Apartment,528,24.19,L,Karjat,1,1
+Apartment,276,14,L,Karjat,1,1
+Apartment,276,14,L,Karjat,1,1
+Apartment,870,1.45,Cr,Kandivali East,1,1
+Apartment,464,1.25,Cr,Kandivali West,1,1
+Apartment,1070,88,L,Mira Road East,1,1
+Apartment,600,21,L,Dombivali,1,1
+Apartment,500,1.3,Cr,Sewri,1,1
+Apartment,638,25.5,L,Ambernath East,1,1
+Apartment,700,25,L,Dombivali,1,1
+Apartment,780,85,L,Kurla,1,1
+Apartment,650,75.9,L,Thane West,1,1
+Apartment,610,52,L,Ulwe,1,1
+Apartment,550,34,L,Nala Sopara,1,1
+Apartment,909,60,L,Nilje Gaon,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,640,23,L,Badlapur West,1,1
+Apartment,640,23,L,Badlapur West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1200,32,L,Karanjade,1,1
+Apartment,640,23,L,Badlapur West,1,1
+Apartment,1200,32,L,Karanjade,1,1
+Apartment,1200,32,L,Karanjade,1,1
+Apartment,1200,32,L,Karanjade,1,1
+Apartment,1200,32,L,Karanjade,1,1
+Apartment,1075,51,L,Dombivali,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,2,Cr,Andheri West,1,1
+Apartment,1925,9,Cr,Prabhadevi,1,1
+Apartment,630,25,L,Khopoli,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,729,41,L,Panvel,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1037,1.3,Cr,Thane West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1300,3.99,Cr,Matunga,1,1
+Apartment,670,1.05,Cr,Kandivali East,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,670,18,L,Boisar,1,1
+Apartment,729,42,L,Panvel,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,675,48,L,Karanjade,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,900,1.95,Cr,Kandivali East,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,900,1.6,Cr,Malad West,1,1
+Apartment,602,34,L,Panvel,1,1
+Apartment,1111,1.11,Cr,Kandivali East,1,1
+Apartment,2000,12,Cr,Santacruz West,1,2
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Studio Apartment,375,11.81,L,Karjat,1,1
+Apartment,400,12.5,L,Karjat,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,3300,12,Cr,Lower Parel,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,1134,75,L,Taloja,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,715,1.65,Cr,Andheri East,1,1
+Apartment,715,1.65,Cr,Andheri East,1,1
+Apartment,715,1.65,Cr,Andheri East,1,1
+Apartment,715,1.65,Cr,Andheri East,1,1
+Apartment,715,1.65,Cr,Andheri East,1,1
+Apartment,715,1.65,Cr,Andheri East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1700,87,L,Vasai,1,2
+Apartment,550,25,L,Thane West,1,1
+Apartment,660,1.6,Cr,Mulund West,1,1
+Apartment,850,2.25,Cr,Andheri East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,800,32,L,Titwala,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,1380,55,L,Ambernath East,1,1
+Apartment,995,38,L,Ambernath East,1,1
+Studio Apartment,421,92,L,Andheri East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,672,50,L,Shil Phata,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,533,88,L,Vikhroli,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,653,1.5,Cr,Koper Khairane,1,1
+Apartment,653,1.5,Cr,Koper Khairane,1,1
+Apartment,653,1.5,Cr,Koper Khairane,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,700,89,L,Goregaon East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,770,1.8,Cr,Ghatkopar East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1005,82,L,Panvel,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,771,1.75,Cr,Kandivali West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1925,9,Cr,Prabhadevi,1,1
+Apartment,1200,5.5,Cr,Mahim,1,1
+Apartment,1200,5.3,Cr,Mahim,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,800,1.35,Cr,Chembur,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,800,1.35,Cr,Chembur,1,1
+Apartment,800,1.35,Cr,Chembur,1,1
+Apartment,651,20,L,Andheri West,1,1
+Studio Apartment,675,48,L,Dombivali,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,670,49.5,L,Ulwe,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,2250,13,Cr,Napeansea Road,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,500,18,L,Karjat,1,1
+Apartment,700,27,L,Karjat,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,670,28,L,Taloja,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,860,38,L,Palghar,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,7,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,775,27,L,Ambernath East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Studio Apartment,310,75,L,Powai,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,575,97,L,Bhandup West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,665,27.85,L,Ambernath West,1,1
+Apartment,1115,66,L,Virar,1,1
+Apartment,650,36,L,Bhiwandi,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,750,56,L,Dombivali,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,960,40,L,Ambernath West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1700,2.8,Cr,Koper Khairane,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,625,31,L,Koproli,1,1
+Apartment,765,92,L,Seawoods,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,500,27,L,Dombivali,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1150,2.61,Cr,Santacruz East,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,2000,1.75,Cr,Dadar West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,3000,2,Cr,Dadar West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,1150,60,L,Badlapur East,1,1
+Apartment,1200,39.9,L,Boisar,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Studio Apartment,560,1.6,Cr,Santacruz West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,620,24,L,Karjat,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,880,1.85,Cr,Mulund West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,670,49.5,L,Ulwe,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,650,20,L,Andheri West,1,1
+Apartment,651,20,L,Andheri West,1,1
+Apartment,950,77.5,L,Dombivali,1,1
+Apartment,830,73,L,Anjurdive,1,1
+Apartment,485,18.95,L,Panvel,1,1
+Apartment,535,27.9,L,Panvel,1,1
+Apartment,685,36.37,L,Vasai,1,1
+Apartment,1100,65,L,Vasai,1,1
+Apartment,1620,67,L,Dombivali,1,1
+Apartment,590,28.75,L,Dombivali,1,1
+Apartment,524,16.5,L,Palghar,1,1
+Independent House,6000,6.5,Cr,Borivali West,1,2
+Apartment,524,16.5,L,Palghar,1,1
+Apartment,1620,67,L,Dombivali,1,1
+Apartment,590,28.75,L,Dombivali,1,1
+Apartment,1270,49,L,Kharghar,1,1
+Apartment,600,65,L,Powai,1,1
+Apartment,685,45,L,Kalyan West,1,1
+Apartment,560,99,L,Thane West,1,1
+Apartment,575,1.01,Cr,Thane West,1,1
+Apartment,585,1.37,Cr,Mulund West,1,1
+Apartment,600,1.42,Cr,Mulund West,1,1
+Apartment,950,2.85,Cr,Ghatkopar East,1,1
+Apartment,633,1.89,Cr,Ghatkopar East,1,1
+Apartment,643,1.6,Cr,Kandivali West,1,1
+Apartment,644,1.61,Cr,Kandivali West,1,1
+Apartment,340,24.58,L,Taloja,1,1
+Apartment,447,32.32,L,Taloja,1,1
+Apartment,928,61,L,Taloja,1,1
+Apartment,375,24.5,L,Taloja,1,1
+Apartment,595,39,L,Taloja,1,1
+Apartment,626,1.53,Cr,Kandivali East,1,1
+Apartment,626,1.53,Cr,Kandivali East,1,1
+Apartment,706,1.72,Cr,Kandivali East,1,1
+Apartment,448,1.09,Cr,Kandivali East,1,1
+Apartment,678,1.66,Cr,Kandivali East,1,1
+Apartment,1380,3.7,Cr,Ghatkopar East,1,1
+Apartment,660,52,L,Mira Road East,1,1
+Apartment,600,34.85,L,Ulwe,1,1
+Apartment,615,34.31,L,Ulwe,1,1
+Apartment,395,83,L,Kandivali East,1,1
+Apartment,600,34.5,L,Ulwe,1,1
+Studio Apartment,425,22.45,L,Ulwe,1,1
+Apartment,2500,5,Cr,Bhandup West,1,2
+Apartment,1106,2.6,Cr,Dahisar,1,1
+Apartment,624,1.15,Cr,Dahisar,1,1
+Apartment,750,80,L,Mira Road East,1,1
+Apartment,1023,2.6,Cr,Kandivali East,1,1
+Apartment,623,1.83,Cr,Kandivali East,1,1
+Apartment,1046,3.08,Cr,Kandivali East,1,1
+Apartment,1020,2.3,Cr,Powai,1,1
+Apartment,322,59.99,L,Thane West,1,1
+Studio Apartment,425,23.96,L,Ulwe,1,1
+Apartment,600,34.77,L,Ulwe,1,1
+Apartment,600,34.38,L,Ulwe,1,1
+Apartment,585,1.46,Cr,Kandivali West,1,1
+Apartment,418,1.04,Cr,Kandivali West,1,1
+Apartment,611,1.77,Cr,Borivali West,1,1
+Apartment,558,1.6,Cr,Borivali West,1,1
+Apartment,831,2.32,Cr,Kandivali West,1,1
+Apartment,636,1.75,Cr,Borivali West,1,1
+Apartment,775,2.35,Cr,Borivali West,1,1
+Apartment,600,35,L,Panvel,1,1
+Apartment,600,41,L,Dombivali,1,1
+Apartment,1395,78,L,Nilje Gaon,1,1
+Apartment,615,23.3,L,Khopoli,1,1
+Apartment,1100,1.85,Cr,Thane West,1,1
+Apartment,853,99,L,Thane West,1,1
+Apartment,1213,2.54,Cr,Thane West,1,1
+Apartment,993,1.74,Cr,Thane West,1,1
+Apartment,2680,5.14,Cr,Thane West,1,2
+Apartment,1665,3.1,Cr,Thane West,1,1
+Apartment,1155,87.85,L,Mira Road East,1,1
+Apartment,933,38,L,Ambernath East,1,1
+Apartment,793,27.5,L,Karjat,1,1
+Apartment,675,28,L,Ambernath East,1,1
+Apartment,820,28.62,L,Karjat,1,1
+Apartment,492,16.6,L,Karjat,1,1
+Apartment,625,21.8,L,Karjat,1,1
+Apartment,690,95,L,Goregaon West,1,1
+Apartment,1400,2,Cr,Thane West,1,1
+Apartment,1175,57,L,Taloja,1,1
+Apartment,1175,57,L,Taloja,1,1
+Apartment,1240,59.52,L,Taloja,1,1
+Apartment,549,44.1,L,Naigaon East,1,1
+Apartment,752,48.99,L,Naigaon East,1,1
+Apartment,623,56,L,Mira Road East,1,1
+Apartment,733,85,L,Mira Road East,1,1
+Apartment,970,85,L,Mira Road East,1,1
+Apartment,585,32,L,Naigaon East,1,1
+Apartment,829,1.15,Cr,Mira Road East,1,1
+Apartment,1283,2.6,Cr,Wadala,1,1
+Apartment,799,1.19,Cr,Thane West,1,1
+Apartment,960,1.08,Cr,Thane West,1,1
+Apartment,650,79,L,Thane West,1,1
+Apartment,543,34,L,Naigaon East,1,1
+Apartment,1251,1.26,Cr,Mira Road East,1,1
+Apartment,999,87,L,Bhayandar East,1,1
+Apartment,838,1.05,Cr,Mira Road East,1,1
+Apartment,769,63,L,Mira Road East,1,1
+Apartment,553,59,L,Mira Road East,1,1
+Apartment,666,63,L,Mira Road East,1,1
+Apartment,1635,1.9,Cr,Sion,1,1
+Apartment,436,36.2,L,Bhiwandi,1,1
+Apartment,467,38.1,L,Bhiwandi,1,1
+Apartment,436,36.2,L,Bhiwandi,1,1
+Apartment,501,39,L,Bhiwandi,1,1
+Apartment,467,38.1,L,Bhiwandi,1,1
+Apartment,657,55,L,Bhiwandi,1,1
+Apartment,501,39,L,Bhiwandi,1,1
+Apartment,408,34.5,L,Bhiwandi,1,1
+Apartment,438,36.9,L,Bhiwandi,1,1
+Apartment,657,55,L,Bhiwandi,1,1
+Apartment,408,34.5,L,Bhiwandi,1,1
+Apartment,456,37.4,L,Bhiwandi,1,1
+Apartment,438,36.9,L,Bhiwandi,1,1
+Apartment,514,40.5,L,Bhiwandi,1,1
+Apartment,456,37.4,L,Bhiwandi,1,1
+Apartment,505,39.5,L,Bhiwandi,1,1
+Apartment,514,40.5,L,Bhiwandi,1,1
+Apartment,505,39.5,L,Bhiwandi,1,1
+Apartment,1035,38.95,L,Badlapur East,1,1
+Apartment,750,95,L,Sion,1,1
+Apartment,1048,81.8,L,Mira Road East,1,1
+Apartment,1545,3.15,Cr,Powai,1,1
+Apartment,650,56,L,Thane West,1,1
+Apartment,450,44,L,Thane West,1,1
+Apartment,650,61,L,Thane West,1,1
+Apartment,1040,2.15,Cr,Kandivali East,1,1
+Apartment,1000,55,L,Panvel,1,1
+Apartment,401,34.99,L,Naigaon East,1,1
+Apartment,1239,1.3,Cr,Mira Road East,1,1
+Apartment,630,26.2,L,Ambernath East,1,1
+Studio Apartment,375,14.95,L,Karjat,1,1
+Apartment,479,46.99,L,Bhiwandi,1,1
+Apartment,432,43,L,Bhiwandi,1,1
+Apartment,579,57,L,Bhiwandi,1,1
+Apartment,645,38,L,Panvel,1,1
+Apartment,512,52.5,L,Mira Road East,1,1
+Apartment,877,1.17,Cr,Bhayandar East,1,1
+Apartment,687,70,L,Mira Road East,1,1
+Apartment,881,94.58,L,Mira Road East,1,1
+Apartment,1050,65,L,Taloje,1,1
+Apartment,1338,1.73,Cr,Mira Road East,1,1
+Apartment,782,62,L,Mira Road East,1,1
+Apartment,820,82.01,L,Mira Road East,1,1
+Apartment,865,1.15,Cr,Mira Road East,1,1
+Apartment,867,88,L,Mira Road East,1,1
+Apartment,620,59,L,Mira Road East,1,1
+Apartment,850,1.09,Cr,Bhayandar East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,618,1.48,Cr,Thane West,1,1
+Apartment,543,1.35,Cr,Thane West,1,1
+Apartment,981,2.35,Cr,Thane West,1,1
+Apartment,650,2.25,Cr,Cuffe Parade,1,1
+Apartment,539,58,L,Mira Road East,1,1
+Apartment,577,89,L,Mira Road East,1,1
+Apartment,1055,84.56,L,Mira Road East,1,1
+Apartment,674,63.1,L,Mira Road East,1,1
+Apartment,950,81.22,L,Mira Road East,1,1
+Apartment,999,83.41,L,Mira Road East,1,1
+Apartment,747,57.13,L,Mira Road East,1,1
+Apartment,549,42.5,L,Naigaon East,1,1
+Apartment,769,63,L,Naigaon East,1,1
+Apartment,1013,83,L,Naigaon East,1,1
+Apartment,549,37,L,Naigaon East,1,1
+Apartment,549,35.75,L,Naigaon East,1,1
+Apartment,549,37.75,L,Naigaon East,1,1
+Apartment,742,52.5,L,Naigaon East,1,1
+Apartment,747,65.21,L,Mira Road East,1,1
+Apartment,1020,78.74,L,Mira Road East,1,1
+Apartment,1025,91.22,L,Mira Road East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,1137,79,L,Mira Road East,1,1
+Apartment,539,58,L,Mira Road East,1,1
+Apartment,590,59,L,Mira Road East,1,1
+Apartment,516,1.19,Cr,Thane West,1,1
+Apartment,646,1.49,Cr,Thane West,1,1
+Apartment,712,1.46,Cr,Thane West,1,1
+Apartment,712,1.46,Cr,Thane West,1,1
+Apartment,555,65,L,Bhandup East,1,1
+Apartment,625,77,L,Mira Road East,1,1
+Apartment,652,65,L,Mira Road East,1,1
+Apartment,953,1.25,Cr,Mira Road East,1,1
+Apartment,705,55.84,L,Mira Road East,1,1
+Apartment,864,79.49,L,Mira Road East,1,1
+Apartment,609,37,L,Naigaon East,1,1
+Apartment,945,1.33,Cr,Mira Road East,1,1
+Apartment,877,1.17,Cr,Bhayandar East,1,1
+Apartment,1527,2.9,Cr,Malad West,1,1
+Apartment,625,33,L,Dronagiri,1,1
+Apartment,831,99,L,Mira Road East,1,1
+Apartment,578,71,L,Mira Road East,1,1
+Apartment,634,64.44,L,Mira Road East,1,1
+Apartment,999,83.41,L,Mira Road East,1,1
+Apartment,999,83.41,L,Mira Road East,1,1
+Apartment,999,83.41,L,Mira Road East,1,1
+Apartment,405,65.99,L,Mira Road East,1,1
+Apartment,799,1.25,Cr,Mira Road East,1,1
+Apartment,431,69,L,Mira Road East,1,1
+Apartment,399,62.99,L,Mira Road East,1,1
+Apartment,1010,1.34,Cr,Mira Road East,1,1
+Apartment,578,94.99,L,Mira Road East,1,1
+Apartment,516,90,L,Mira Road East,1,1
+Apartment,395,64.25,L,Mira Road East,1,1
+Apartment,554,80.35,L,Mira Road East,1,1
+Apartment,544,78.45,L,Mira Road East,1,1
+Apartment,558,82.1,L,Mira Road East,1,1
+Apartment,377,61.2,L,Mira Road East,1,1
+Apartment,566,84.5,L,Mira Road East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,616,69,L,Bhayandar East,1,1
+Apartment,850,1.09,Cr,Bhayandar East,1,1
+Apartment,539,58,L,Mira Road East,1,1
+Apartment,912,84,L,Mira Road East,1,1
+Apartment,912,84,L,Mira Road East,1,1
+Apartment,539,58,L,Mira Road East,1,1
+Apartment,263,51.28,L,Mira Road East,1,1
+Apartment,266,51.87,L,Mira Road East,1,1
+Apartment,575,67,L,Mira Road East,1,1
+Apartment,816,92,L,Mira Road East,1,1
+Apartment,1144,1.52,Cr,Mira Road East,1,1
+Apartment,451,64.88,L,Mira Road East,1,1
+Apartment,902,1.29,Cr,Mira Road East,1,1
+Apartment,687,98.85,L,Mira Road East,1,1
+Apartment,0,84.97,L,Mira Road East,1,1
+Apartment,615,88.56,L,Mira Road East,1,1
+Apartment,600,24.8,L,Karjat,1,1
+Apartment,443,1.35,Cr,Girgaon,1,1
+Apartment,840,1,Cr,Thane West,1,1
+Apartment,790,1.19,Cr,Thane West,1,1
+Apartment,680,88,L,Thane West,1,1
+Apartment,760,1.05,Cr,Thane West,1,1
+Apartment,760,1.04,Cr,Thane West,1,1
+Apartment,667,70,L,Thane West,1,1
+Apartment,667,70,L,Thane West,1,1
+Apartment,667,70,L,Thane West,1,1
+Apartment,680,1.65,Cr,Thane West,1,1
+Apartment,698,84,L,Thane West,1,1
+Apartment,850,1.15,Cr,Thane West,1,1
+Apartment,1070,1.4,Cr,Thane West,1,1
+Apartment,1050,86,L,Mira Road East,1,1
+Apartment,890,1.75,Cr,Malad West,1,1
+Apartment,750,35,L,Ambernath East,1,1
+Apartment,830,2.42,Cr,Kanjurmarg,1,1
+Apartment,1845,2.35,Cr,Thane West,1,1
+Apartment,1845,2.37,Cr,Thane West,1,1
+Apartment,941,39,L,Ambernath West,1,1
+Apartment,610,65,L,Mira Road East,1,1
+Apartment,1050,40,L,Ambernath East,1,1
+Apartment,680,81,L,Mira Road East,1,1
+Apartment,1093,3.3,Cr,Byculla,1,1
+Apartment,1320,3.35,Cr,Chembur,1,1
+Apartment,750,90,L,Thane West,1,1
+Apartment,1300,85,L,Vasai,1,1
+Apartment,810,1.2,Cr,Thane West,1,1
+Apartment,1250,1.8,Cr,Nerul,1,1
+Apartment,1600,4.25,Cr,Powai,1,1
+Apartment,1600,4.75,Cr,Powai,1,1
+Apartment,1650,4.5,Cr,Powai,1,1
+Apartment,1100,1.9,Cr,Bhiwandi,1,1
+Apartment,900,45,L,Koproli,1,1
+Apartment,910,51,L,Panvel,1,1
+Studio Apartment,340,17.9,L,Panvel,1,1
+Apartment,610,55,L,Mira Road East,1,1
+Apartment,750,88,L,Mira Road East,1,1
+Apartment,780,1.15,Cr,Mira Road East,1,1
+Apartment,900,98.6,L,Mira Road East,1,1
+Apartment,650,1,Cr,Dahisar,1,1
+Apartment,950,76,L,Mira Road East,1,1
+Apartment,650,62,L,Mira Road East,1,1
+Apartment,696,60,L,Mira Road East,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,1620,2,Cr,Thane West,1,1
+Apartment,500,30,L,Virar,1,1
+Apartment,750,77.55,L,Mira Road East,1,1
+Studio Apartment,390,22,L,Dronagiri,1,1
+Apartment,550,70,L,Mira Road East,1,1
+Apartment,1450,1.75,Cr,Vashi,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,525,54.99,L,Mira Road East,1,1
+Apartment,900,50,L,Panvel,1,1
+Apartment,1275,2.51,Cr,Kandivali East,1,1
+Apartment,990,95,L,Mira Road East,1,1
+Apartment,520,78,L,Kandivali East,1,1
+Apartment,520,78,L,Kandivali East,1,1
+Apartment,520,78,L,Kandivali East,1,1
+Apartment,890,2.1,Cr,Kandivali East,1,1
+Apartment,890,2.1,Cr,Kandivali East,1,1
+Apartment,890,2.1,Cr,Kandivali East,1,1
+Apartment,890,2.1,Cr,Kandivali East,1,1
+Apartment,850,81,L,Mira Road East,1,1
+Apartment,950,1.1,Cr,Thane West,1,1
+Apartment,1650,3.9,Cr,Thane West,1,1
+Apartment,790,35.5,L,Virar,1,1
+Apartment,750,1.7,Cr,Malad West,1,1
+Apartment,800,1.85,Cr,Malad West,1,1
+Apartment,560,67,L,Mira Road East,1,1
+Apartment,500,1.4,Cr,Lower Parel,1,1
+Studio Apartment,410,25,L,Ulwe,1,1
+Apartment,1650,1.75,Cr,Ulwe,1,1
+Apartment,495,53,L,Mira Road East,1,1
+Apartment,1400,7.5,Cr,Girgaon,1,1
+Apartment,2000,8,Cr,Tardeo,1,1
+Apartment,1575,9.5,Cr,Tardeo,1,1
+Villa,1300,1.6,Cr,Vasai,1,1
+Apartment,830,2.42,Cr,Kanjurmarg,1,1
+Apartment,1315,2.8,Cr,Wadala,1,1
+Apartment,1255,2.75,Cr,Wadala,1,1
+Apartment,1315,3.1,Cr,Wadala,1,1
+Apartment,955,1.8,Cr,Wadala,1,1
+Apartment,575,1.15,Cr,Parel,1,1
+Apartment,1350,2.85,Cr,Wadala,1,1
+Apartment,1400,2.75,Cr,Wadala,1,1
+Apartment,965,1.65,Cr,Wadala,1,1
+Apartment,650,26,L,Ambernath East,1,1
+Apartment,830,2.42,Cr,Kanjurmarg,1,1
+Apartment,1280,90,L,Ulwe,1,1
+Apartment,1350,85,L,Vasai,1,1
+Studio Apartment,410,19,L,Panvel,1,1
+Apartment,500,1.44,Cr,Lower Parel,1,1
+Apartment,1050,1.05,Cr,Thane West,1,1
+Apartment,1026,4.25,Cr,Lower Parel,1,1
+Apartment,1340,1,Cr,Vasai,1,1
+Apartment,800,1.35,Cr,Bhandup West,1,1
+Apartment,700,82,L,Thane West,1,1
+Apartment,675,1.3,Cr,Bhandup West,1,1
+Apartment,814,1.45,Cr,Bhandup West,1,1
+Apartment,800,1.85,Cr,Bhandup West,1,1
+Apartment,571,1.7,Cr,Kanjurmarg,1,1
+Apartment,571,1.7,Cr,Kanjurmarg,1,1
+Apartment,401,1.19,Cr,Kanjurmarg,1,1
+Apartment,401,1.19,Cr,Kanjurmarg,1,1
+Apartment,636,95,L,Ghatkopar West,1,1
+Apartment,1055,1.75,Cr,Ghatkopar West,1,1
+Studio Apartment,450,73,L,Ghatkopar West,1,1
+Apartment,765,85,L,Ghatkopar West,1,1
+Apartment,668,1.1,Cr,Ghatkopar West,1,1
+Apartment,670,38,L,Ulwe,1,1
+Apartment,1149,36,L,Khar,1,1
+Apartment,644,1.1,Cr,Ghatkopar West,1,1
+Apartment,620,39.35,L,Virar,1,1
+Apartment,580,53,L,Mira Road East,1,1
+Apartment,965,82,L,Mira Road East,1,1
+Apartment,650,68,L,Mira Road East,1,1
+Apartment,450,55,L,Mira Road East,1,1
+Apartment,560,56,L,Mira Road East,1,1
+Apartment,650,52,L,Mira Road East,1,1
+Apartment,780,1.15,Cr,Mira Road East,1,1
+Apartment,800,42,L,Kalyan West,1,1
+Apartment,550,37,L,Kalyan West,1,1
+Apartment,1050,73,L,Kalyan West,1,1
+Apartment,980,80,L,Mira Road East,1,1
+Apartment,660,60,L,Mira Road East,1,1
+Apartment,630,59,L,Mira Road East,1,1
+Apartment,660,48.5,L,Mira Road East,1,1
+Apartment,650,55,L,Mira Road East,1,1
+Apartment,550,45,L,Mira Road East,1,1
+Apartment,685,65,L,Mira Road East,1,1
+Apartment,1020,80,L,Mira Road East,1,1
+Apartment,768,70,L,Mira Road East,1,1
+Apartment,1020,1.05,Cr,Mira Road East,1,1
+Apartment,700,78,L,Mira Road East,1,1
+Apartment,638,70,L,Mira Road East,1,1
+Apartment,580,65,L,Mira Road East,1,1
+Apartment,658,58,L,Mira Road East,1,1
+Apartment,560,50,L,Mira Road East,1,1
+Apartment,650,60,L,Mira Road East,1,1
+Apartment,630,75,L,Mira Road East,1,1
+Apartment,680,68,L,Mira Road East,1,1
+Apartment,525,52,L,Mira Road East,1,1
+Apartment,620,72,L,Mira Road East,1,1
+Apartment,1020,1.01,Cr,Mira Road East,1,1
+Apartment,685,60,L,Mira Road East,1,1
+Apartment,768,70.1,L,Mira Road East,1,1
+Apartment,768,72,L,Mira Road East,1,1
+Apartment,768,73,L,Mira Road East,1,1
+Apartment,700,72,L,Mira Road East,1,1
+Apartment,650,65,L,Mira Road East,1,1
+Apartment,985,90,L,Mira Road East,1,1
+Apartment,685,70,L,Mira Road East,1,1
+Apartment,685,70,L,Mira Road East,1,1
+Apartment,685,65,L,Mira Road East,1,1
+Apartment,685,50,L,Mira Road East,1,1
+Apartment,658,50,L,Mira Road East,1,1
+Apartment,495,54,L,Mira Road East,1,1
+Apartment,590,36,L,Vasai West,1,1
+Apartment,990,72,L,Vasai,1,1
+Apartment,980,70,L,Vasai,1,1
+Apartment,650,30,L,Vasai east,1,1
+Apartment,1250,1.2,Cr,Vasai,1,1
+Apartment,1255,2.2,Cr,Ghatkopar East,1,1
+Apartment,1060,1.29,Cr,Thane West,1,1
+Apartment,1000,1.7,Cr,Malad East,1,1
+Apartment,1255,2.19,Cr,Ghatkopar East,1,1
+Apartment,1255,2.2,Cr,Ghatkopar East,1,1
+Apartment,1255,2.19,Cr,Ghatkopar East,1,1
+Apartment,1255,2.18,Cr,Ghatkopar East,1,1
+Apartment,1255,2.19,Cr,Ghatkopar East,1,1
+Apartment,1255,2.18,Cr,Ghatkopar East,1,1
+Apartment,1255,2.19,Cr,Ghatkopar East,1,1
+Apartment,1255,2.18,Cr,Ghatkopar East,1,1
+Apartment,1155,2.1,Cr,Ghatkopar East,1,1
+Apartment,1155,2.11,Cr,Ghatkopar East,1,1
+Apartment,1155,2.12,Cr,Ghatkopar East,1,1
+Apartment,1155,2.11,Cr,Ghatkopar East,1,1
+Apartment,1155,2.1,Cr,Ghatkopar East,1,1
+Apartment,1150,2.1,Cr,Ghatkopar East,1,1
+Apartment,1050,2.1,Cr,Ghatkopar East,1,1
+Apartment,1150,2.08,Cr,Ghatkopar East,1,1
+Apartment,1055,2.11,Cr,Ghatkopar East,1,1
+Apartment,1155,2.1,Cr,Ghatkopar East,1,1
+Apartment,1150,2.09,Cr,Ghatkopar East,1,1
+Apartment,600,1.85,Cr,Colaba,1,1
+Apartment,850,1.6,Cr,Goregaon East,1,1
+Apartment,725,46,L,Dronagiri,1,1
+Apartment,720,40,L,Dronagiri,1,1
+Apartment,850,1.63,Cr,Malad East,1,1
+Apartment,1350,3.5,Cr,Andheri West,1,1
+Apartment,850,1.75,Cr,Malad West,1,1
+Apartment,400,1.6,Cr,Colaba,1,1
+Apartment,690,1,Cr,Goregaon West,1,1
+Studio Apartment,340,18.7,L,Panvel,1,1
+Apartment,565,31,L,Panvel,1,1
+Studio Apartment,545,95,L,Wadala,1,1
+Studio Apartment,340,18,L,Panvel,1,1
+Studio Apartment,380,15.8,L,Karjat,1,1
+Apartment,436,42.03,L,Bhiwandi,1,1
+Apartment,511,49.32,L,Bhiwandi,1,1
+Apartment,435,42.03,L,Bhiwandi,1,1
+Apartment,631,63.78,L,Bhiwandi,1,1
+Apartment,529,52.75,L,Bhiwandi,1,1
+Apartment,602,57.12,L,Bhiwandi,1,1
+Apartment,430,41.5,L,Bhiwandi,1,1
+Apartment,431,41.5,L,Bhiwandi,1,1
+Apartment,650,1.14,Cr,Kandivali East,1,1
+Apartment,400,99,L,Bhandup West,1,1
+Apartment,600,1.48,Cr,Bhandup West,1,1
+Apartment,400,99,L,Bhandup West,1,1
+Apartment,600,1.48,Cr,Bhandup West,1,1
+Apartment,673,2.19,Cr,Andheri West,1,1
+Apartment,673,2.19,Cr,Andheri West,1,1
+Apartment,1060,3.2,Cr,Andheri West,1,1
+Apartment,1060,3.2,Cr,Andheri West,1,1
+Apartment,415,1.19,Cr,Andheri West,1,1
+Apartment,415,1.19,Cr,Andheri West,1,1
+Apartment,901,2.89,Cr,Andheri East,1,1
+Apartment,901,2.89,Cr,Andheri East,1,1
+Apartment,1011,3.19,Cr,Andheri East,1,1
+Apartment,1011,3.19,Cr,Andheri East,1,1
+Apartment,910,2.9,Cr,Andheri East,1,1
+Apartment,910,2.9,Cr,Andheri East,1,1
+Apartment,776,2.21,Cr,Andheri East,1,1
+Apartment,776,2.21,Cr,Andheri East,1,1
+Apartment,899,2.85,Cr,Andheri East,1,1
+Apartment,899,2.85,Cr,Andheri East,1,1
+Apartment,850,90,L,Thane West,1,1
+Apartment,602,35.5,L,Dombivali,1,1
+Apartment,700,68,L,Panvel,1,1
+Apartment,820,1.2,Cr,Thane West,1,1
+Apartment,677,35,L,Panvel,1,1
+Apartment,637,40,L,Dombivali,1,1
+Apartment,650,62,L,Mira Road East,1,1
+Apartment,775,1.5,Cr,Bhandup West,1,1
+Apartment,1000,1.22,Cr,Thane West,1,1
+Apartment,1050,1.25,Cr,Thane West,1,1
+Apartment,660,47,L,Mira Road East,1,1
+Apartment,650,48,L,Mira Road East,1,1
+Apartment,984,75,L,Mira Road East,1,1
+Apartment,650,44,L,Mira Road East,1,1
+Apartment,550,42.9,L,Mira Road East,1,1
+Apartment,984,75.11,L,Mira Road East,1,1
+Apartment,850,90,L,Mira Road East,1,1
+Apartment,580,52,L,Mira Road East,1,1
+Apartment,680,80,L,Thane West,1,1
+Apartment,1950,3,Cr,Thane West,1,2
+Apartment,1950,2.9,Cr,Thane West,1,2
+Apartment,810,1.05,Cr,Thane West,1,1
+Apartment,990,1.32,Cr,Thane West,1,1
+Apartment,700,25,L,Ambernath West,1,1
+Apartment,640,90,L,Ghatkopar East,1,1
+Apartment,644,1.05,Cr,Ghatkopar West,1,1
+Apartment,950,95,L,Mira Road East,1,1
+Apartment,2600,7.9,Cr,Wadala,1,2
+Apartment,800,90,L,Thane West,1,1
+Apartment,1560,2.1,Cr,Thane West,1,1
+Apartment,620,88,L,Powai,1,1
+Apartment,1115,1.3,Cr,Thane West,1,1
+Apartment,1100,1.25,Cr,Thane West,1,1
+Apartment,1020,1.84,Cr,Chembur,1,1
+Apartment,1050,1.15,Cr,Thane West,1,1
+Apartment,1050,1.1,Cr,Thane West,1,1
+Apartment,1150,1.35,Cr,Thane West,1,1
+Apartment,980,85,L,Thane West,1,1
+Apartment,1450,1.9,Cr,Thane West,1,1
+Apartment,1250,1.75,Cr,Thane West,1,1
+Apartment,610,89,L,Mulund West,1,1
+Apartment,966,5,Cr,Tardeo,1,1
+Apartment,1679,10,Cr,Tardeo,1,1
+Apartment,470,46,L,Mira Road East,1,1
+Apartment,1050,1.7,Cr,Thane West,1,1
+Apartment,721,1.62,Cr,Chembur,1,1
+Apartment,721,1.62,Cr,Chembur,1,1
+Apartment,645,1.45,Cr,Chembur,1,1
+Apartment,645,1.45,Cr,Chembur,1,1
+Apartment,668,1.5,Cr,Chembur,1,1
+Apartment,668,1.5,Cr,Chembur,1,1
+Apartment,800,1.05,Cr,Thane West,1,1
+Apartment,1300,2.5,Cr,Thane West,1,1
+Apartment,1000,1.65,Cr,Thane West,1,1
+Apartment,689,2.3,Cr,Kharghar,1,1
+Apartment,689,2.3,Cr,Kharghar,1,1
+Apartment,689,2.3,Cr,Kharghar,1,1
+Apartment,689,2.3,Cr,Kharghar,1,1
+Apartment,836,2.94,Cr,Kharghar,1,1
+Apartment,836,2.94,Cr,Kharghar,1,1
+Apartment,546,1.8,Cr,Kharghar,1,1
+Apartment,546,1.8,Cr,Kharghar,1,1
+Apartment,484,1.6,Cr,Kharghar,1,1
+Apartment,690,1.8,Cr,Kharghar,1,1
+Apartment,763,2.3,Cr,Kharghar,1,1
+Apartment,484,1.6,Cr,Kharghar,1,1
+Apartment,484,1.6,Cr,Kharghar,1,1
+Apartment,690,1.8,Cr,Kharghar,1,1
+Apartment,690,1.8,Cr,Kharghar,1,1

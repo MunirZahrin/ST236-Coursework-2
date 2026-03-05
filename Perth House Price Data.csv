@@ -1,0 +1,522 @@
+ADDRESS,SUBURB,PRICE,BEDROOMS,BATHROOMS,GARAGE,FLOOR_AREA,BUILD_YEAR,TYPE
+6/46 Ewen Street,Scarborough,485000,3,1,1,116,,House
+28 Jade Street,Mount Richon,530000,4,2,6,231,1991,House
+31 Woodland Place,Casuarina,720000,4,2,12,210,,House
+8 Clayden Street,Wooroloo,415000,4,2,,165,2004,House
+6 Elmore Way,High Wycombe,630000,4,2,2,230,2007,House
+7 Kerner Avenue,Caversham,540000,4,2,2,211,2012,House
+9B Charleson Street,Myaree,670000,3,2,2,142,1995,House
+194 Boulonnais Drive,Brigadoon,1055000,4,3,4,366,2005,House
+36 Marine Terrace,Fremantle,1060000,3,1,,195,1993,House
+3 Jouissance Bend,Atwell,680000,4,2,2,219,2005,House
+259 Marri Park Drive,Casuarina,750000,4,2,2,200,1992,House
+9 BABBLER COURT,Maida Vale,455000,4,2,2,155,2001,House
+5 Little River Cove,Jane Brook,510000,4,2,2,160,1998,House
+6 Arboreta Way,Pearsall,590000,4,2,3,208,2003,House
+995 Katharine Street,Bellevue,380000,4,1,2,119,1984,House
+25 Field View,Bullsbrook,330000,3,1,2,124,1993,House
+10B Scalby Street,Scarborough,650000,3,2,2,150,2001,House
+25 Capulet Street,Coolbellup,510000,4,1,4,110,1967,House
+16 Silkwood Turn,Churchlands,1250000,4,2,2,246,2000,House
+3 Charles Street,Shenton Park,970000,3,1,1,126,1916,House
+30 Alps Street,Mount Helena,340000,3,1,2,123,1989,House
+48A Mckenzie Way,Embleton,669900,3,3,2,195,2014,House
+83 Flinders Avenue,Hillarys,715000,4,2,2,238,1990,House
+609 Karnup Road,Hopeland,320000,5,2,2,367,2015,House
+31 Gabell Way,Koondoola,146200,4,2,2,173,1978,House
+16 Amherst Avenue,Darlington,500000,3,1,2,131,1975,House
+56 Redgum Avenue,Bellevue,479000,3,1,1,136,1988,House
+101 Beenyup Road,Atwell,460000,3,2,2,138,,House
+22 Mcewing Road,Redcliffe,470000,3,2,2,182,2002,House
+4 Caperton Court,Ferndale,500000,4,2,1,146,1988,House
+10 Instone Street,Hilton,507500,2,1,2,106,1977,House
+44/158 Bibra Drive,Bibra Lake,408000,2,1,,87,1990,House
+23 Kinsale Way,Caversham,535000,4,2,2,230,2015,House
+33 Hazelbury Street,Greenwood,567000,4,1,,196,2009,House
+14 Prunella Crescent,Canning Vale,580000,4,2,2,192,1994,House
+40 Davies Crescent,Gooseberry Hill,686000,4,1,2,120,1970,House
+21 Dulcify Court,Brigadoon,780000,3,1,4,218,2003,House
+9 Rosenburg Gardens,Dayton,515000,4,2,2,211,2012,House
+48 Avon Crescent,Viveash,450000,3,1,2,150,1994,House
+29 Cerulean Road,Karnup,185000,3,1,,137,2015,House
+11 Eddington Road,Warwick,695000,4,2,2,174,2000,House
+4 Duri Street,Armadale,179000,3,1,1,129,1981,House
+44 Tinsel Street,Yanchep,380000,3,2,2,173,2011,House
+52 Lincoln Road,Morley,460000,2,1,1,114,1950,House
+128 Lansdowne Road,Kensington,875000,4,3,2,205,1955,House
+7 Dawson Way,Parmelia,205000,3,1,1,118,,House
+7 Harcus Retreat,Merriwa,361000,4,2,2,125,1994,House
+32 Millington Street,Ardross,1750000,5,3,5,304,2003,House
+121a Reynolds Road,Mount Pleasant,1050000,5,4,2,266,1997,House
+17 Livorno Boulevard,Piara Waters,430000,3,2,2,114,,House
+13 St Michaels Court,Cooloongup,346000,4,2,2,185,1990,House
+6 Field Avenue,Redcliffe,507000,3,1,2,101,,House
+3 O'Connell Street,Hamilton Hill,465000,3,1,2,109,1961,House
+31 Deerpark Gardens,Waterford,1350000,6,4,2,520,,House
+36 Hubert Street,Darlington,578000,3,1,2,145,1988,House
+4 Lycett Turn,Southern River,700000,5,2,2,251,2002,House
+13 La Seyne Crescent,Warnbro,1050000,5,3,,312,1996,House
+179 Bridgewater Drive,Kallaroo,520000,3,1,1,91,1976,House
+153 Carmel Road,Carmel,545000,4,1,,150,1974,House
+29 Carlton Street,West Leederville,1100000,3,1,1,129,1910,House
+11 The Boardwalk,Ascot,705000,3,2,2,143,1999,House
+17 Valentine Road,Kelmscott,289000,3,2,1,161,1975,House
+5 Danja Rise,Hocking,435000,4,2,2,144,1996,House
+9 Kyle Court,Hamersley,650000,4,2,3,224,1985,House
+25 Frithville Road,Balcatta,730000,4,4,2,432,1964,House
+15 Olympus Loop,Merriwa,380000,4,2,2,120,2005,House
+44 Lyndhurst Road,Kalamunda,560000,4,2,2,156,1975,House
+39 Muir Court,Banjup,1450000,5,4,3,256,1985,House
+83 Kingsway,Madeley,735000,5,2,4,273,2003,House
+9 Gawler Court,Willetton,675000,4,2,3,167,1985,House
+38 Dorrigo Bend,Yanchep,410000,4,2,2,167,2011,House
+26 Monet Drive,Ashby,560000,5,2,2,205,2004,House
+8 Anfield Crescent,Aveley,507500,5,2,2,280,2007,House
+15 Agonis Place,Wanneroo,1250000,4,2,6,259,,House
+27 Campbell Way,Parkerville,705000,4,2,2,218,2008,House
+20 Jennings Way,Lockridge,395000,3,1,4,93,1975,House
+6 Misty Road,Parkerville,590000,4,2,2,160,1990,House
+6 Seaham Way,Mindarie,860000,5,3,2,297,2004,House
+670 Bushlands Road,Hovea,819000,4,2,2,245,1992,House
+29 Amadeus Crescent,Port Kennedy,340000,5,2,2,264,2005,House
+13/9 MacDonald Road,Applecross,640000,3,2,2,118,,House
+14 Harling Way,Bullsbrook,580000,4,2,2,240,2005,House
+4 Barham Mews,Currambine,485000,3,2,2,100,1992,House
+5 Seahorse Rise,Ballajura,367500,3,2,2,140,1992,House
+14 Lakeview Drive,Edgewater,472000,3,1,2,118,1977,House
+11 Limone Street,Aveley,420000,3,2,2,167,2014,House
+43 Francis Street,Martin,820000,4,2,3,199,1992,House
+6 Doepel Way,Wattle Grove,510000,4,2,2,181,2000,House
+8 Tarwarri Close,Hillman,265000,4,1,1,127,1974,House
+348 Rowley Road,Wandi,1150000,4,2,3,227,2007,House
+28B Swan Road,Attadale,1005000,4,3,2,1350,,House
+72 BISDEE ROAD,Millendon,1050000,6,4,3,81,,House
+25 Mader Road,Mundijong,372000,3,1,1,124,1986,House
+735 Katharine Street,Bellevue,380000,4,1,1,133,1985,House
+125 Pavilion Circle,The Vines,510000,4,2,2,198,2007,House
+197 Winterfold Road,Coolbellup,485000,5,2,4,94,1966,House
+6 Kirkby Ridge,Salter Point,1375000,4,3,2,341,2001,House
+162 Empire Avenue,Wembley Downs,1275000,4,2,2,305,1979,House
+7 Kieren Court,Middle Swan,360000,3,1,1,115,1992,House
+8B Lyal Court,Thornlie,260000,3,1,1,107,1976,House
+19 Sebago Street,Wellard,320000,4,2,2,151,2015,House
+14 Grand Paradiso Parade,Merriwa,395000,4,2,2,152,2006,House
+17 Bourke View,Jane Brook,567000,4,2,2,234,2000,House
+8 Wallangarra Drive,Bedfordale,817000,5,2,3,280,,House
+1/7 Chidlow Street,Mount Helena,470000,2,2,2,130,2013,House
+91 Mullaloo Drive,Mullaloo,618000,4,2,2,162,1990,House
+21 Lintonmarc Drive,Redcliffe,500000,4,2,2,165,2000,House
+5 Park View Green,Churchlands,1185000,4,2,2,212,,House
+4 Cassatt Street,Ashby,490000,4,2,2,178,2004,House
+79 Memorial Avenue,Baskerville,515000,3,1,,200,1984,House
+25 Kadina Road,Gooseberry Hill,597000,3,1,2,137,1975,House
+4 KURNALPI TURN,Wanneroo,415000,4,2,2,150,2003,House
+5A Mccleery Street,Beaconsfield,810000,3,2,5,155,1999,House
+21 Seurat Loop,Ashby,499000,4,2,2,193,2004,House
+37 Murray Street,Como,800000,3,1,2,106,,House
+50 The Circus,Burswood,1180000,4,3,2,220,2006,House
+1325 McDowell Loop,Parkerville,835000,4,2,2,211,1999,House
+4/20 Arabella Mews,Currambine,375000,3,2,1,110,2003,House
+19 Wangalla Place,Koongamia,329000,3,1,1,102,1986,House
+2 Jarrah Lane,Mount Claremont,1200000,3,2,2,206,2006,House
+17 Simper Crescent,White Gum Valley,760000,4,2,2,151,1965,House
+6 Lacebark Road,Churchlands,1415000,3,2,2,244,2013,House
+18 Oldham Pass,High Wycombe,0,4,2,2,235,2004,House
+4 Redheart Way,Beeliar,710000,4,2,2,226,2013,House
+120A Alice Street,Doubleview,675000,3,2,2,146,2008,House
+56A Coldwells Street,Bicton,1000000,4,2,2,112,1986,House
+215 Erindale Road,Hamersley,470000,3,1,3,123,1977,House
+11 Cassio Place,Hamilton Hill,370000,2,1,1,97,1980,House
+11 Bilya Avenue,Mardella,800000,4,2,32,238,2004,House
+22 Denston Way,Girrawheen,332000,3,1,1,89,1972,House
+7 Amcer Rise,Stratton,339000,4,2,2,140,1993,House
+41 Kennack Vista,Atwell,595000,4,2,2,180,,House
+12 Snook Place,Seville Grove,382500,4,2,2,156,1990,House
+5 Sherlock Rise,Carramar,470000,4,2,2,226,,House
+18 Chernoff Loop,Darch,385000,3,2,2,100,2012,House
+85 Railway Parade,Upper Swan,570000,4,1,2,167,1975,House
+60 Stockholm Road,Wanneroo,400000,3,2,2,123,2011,House
+7 Coachwood Gardens,Ballajura,405000,4,2,2,158,,House
+41 Pandora Drive,City Beach,1200000,4,2,2,185,1972,House
+45 Dumbarton Crescent,Menora,1935000,4,3,3,290,1932,House
+1C Atwell Street,Belmont,506000,3,2,2,137,2010,House
+2 Cumbor Way,Samson,587000,3,2,3,165,1983,House
+5 Grenville Street,Tuart Hill,430000,3,1,2,144,1950,House
+3 Wandarra Close,Karawara,287000,5,1,2,253,2010,House
+17 Welara Circle,Henley Brook,470000,4,2,2,188,2005,House
+146A Herbert Road,Shenton Park,1235000,4,2,2,228,2005,House
+25C Ferrara Way,Girrawheen,283000,2,2,2,76,1975,House
+2/20 Amstey Street,Riverton,650000,4,2,2,154,2012,House
+36 North Lake Road,Alfred Cove,730000,4,2,2,141,1961,House
+41 Marnie Road,Glen Forrest,650000,4,2,2,177,1989,House
+11 Winnacott Street,Willagee,440000,3,1,1,106,1960,House
+5 Patenier Street,Ashby,485000,4,2,2,210,2006,House
+4 Blossom Chase,Aubin Grove,565050,4,2,2,231,2012,House
+12 Morialta Avenue,Quinns Rocks,370000,3,1,1,104,1995,House
+17 Chester Street,Subiaco,1820000,5,3,2,290,1925,House
+144b Newborough Street,Karrinyup,860000,4,2,2,242,1958,House
+20A Nyara Crescent,Craigie,437000,4,2,2,128,2007,House
+43A Canavan Crescent,Manning,775000,4,2,2,175,2008,House
+15 Killaloe Place,Waterford,1000000,4,3,2,290,1996,House
+20 Sapling Way,Hocking,395000,3,1,2,130,1988,House
+9 Guernsey Court,Stratton,369000,4,2,2,140,1995,House
+116 Paterson Street,Mundijong,365000,3,1,1,125,1988,House
+82 Price Parkway,Bertram,312000,3,2,2,170,2008,House
+96 Eglinton Crescent,Hamersley,500000,3,1,1,172,1972,House
+14 Coral Vine Loop,Jarrahdale,830000,3,2,4,250,2009,House
+17 Hardy Road,Nedlands,1640000,4,2,2,274,1926,House
+8 Coma Place,Beldon,505000,3,1,1,124,1980,House
+15B Lombardy Street,Woodlands,1175000,3,2,4,242,2009,House
+4 Barker Road,South Guildford,393000,3,1,3,124,2000,House
+20 Lynda Crescent,Cooloongup,310000,3,1,1,119,1985,House
+10 Welsh Glen,Glen Forrest,705000,4,2,2,228,1999,House
+2B Erith Street,Kenwick,368000,3,2,1,116,2001,House
+178 Kalamunda Road,Gooseberry Hill,680000,5,3,6,244,1967,House
+3 Durnsford Way,Camillo,317500,3,1,3,85,1977,House
+9 Vix Street,Dalkeith,2400000,3,2,3,364,2002,House
+31 Broadway,Embleton,483000,4,1,2,136,1972,House
+32B Lawson Street,Bentley,320000,3,1,1,92,1996,House
+19 Quartz Avenue,Wellard,404000,4,2,2,171,2013,House
+2 Plumridge Way,South Lake,440000,3,2,2,119,1985,House
+23 White Gum Drive,Jane Brook,419000,4,2,2,127,2000,House
+4 Edulis Avenue,Aubin Grove,660000,4,2,2,229,2008,House
+15 Ballantine Road,Warwick,250000,4,1,1,143,1973,House
+3 Trentham Road,Landsdale,460000,3,2,2,141,2006,House
+8 Dale Drive,Gooseberry Hill,735000,4,2,4,202,1970,House
+30 Plantation Street,Menora,900000,3,1,2,127,1970,House
+1 Challenger Avenue,Manning,590000,3,2,2,179,2001,House
+49 Hardey East Road,Wattle Grove,432000,3,2,2,178,2008,House
+42 Fennell Crescent,Wattle Grove,490500,4,2,2,159,2014,House
+14A Burney Court,Kardinya,530000,3,2,2,146,2004,House
+65 Vaucluse Circuit,Belmont,692000,4,2,2,182,,House
+37 Allamanda Gate,Helena Valley,612000,4,3,3,198,2014,House
+26 Coronado Ridge,Iluka,960000,5,2,4,295,2000,House
+17 Wildwood Heights,Leeming,877000,4,2,2,261,1998,House
+66 Elmore Street,Mount Helena,410000,3,1,3,115,1974,House
+2 Galpini Place,Mirrabooka,480000,4,2,2,102,1985,House
+61 Ogilvie Road,Mount Pleasant,1400000,4,2,,297,2000,House
+45 Mermaid Way,Heathridge,499000,4,2,2,210,2003,House
+88A Redwood Crescent,Melville,625000,3,2,2,150,2010,House
+16 Bonnard Crescent,Ashby,500000,4,2,6,152,,House
+6 Bellona Place,Willetton,600000,3,1,,109,1980,House
+14 Barwon Heads Terrace,Connolly,675000,4,2,2,236,,House
+230 River Road,Hopeland,950000,4,2,,210,1970,House
+136 Broun Avenue,Embleton,521000,2,1,1,100,1961,House
+3 Matisse Street,Ashby,467000,4,2,3,171,2004,House
+9 Fern Place,Wilson,528000,4,2,1,150,1985,House
+6 Opal Drive,Edgewater,500000,4,2,2,150,1983,House
+84 Belmont Road,Kenwick,700000,3,1,1,106,1945,House
+32A The Circle,Warwick,480000,3,2,2,112,2000,House
+134 Moolanda Boulevard,Kingsley,505000,4,1,1,142,1981,House
+65 First Avenue,Rossmoyne,1210000,3,2,1,246,1969,House
+10 Laslett Circle,Mundaring,649000,4,2,2,207,1995,House
+27 West Parade,Hazelmere,163000,4,2,2,161,1984,House
+17 Wirilda Crescent,Greenwood,510000,3,1,5,137,1976,House
+18 Mcdermott Road,Kwinana Town Centre,153250,3,2,2,109,2015,House
+19 Pennington Way,Brabham,395000,3,2,4,136,2014,House
+4 Scilla Place,Roleystone,580000,4,2,3,242,2007,House
+36 Coral Vine Loop,Jarrahdale,660000,4,2,2,231,2013,House
+42B Beamish Avenue,Brentwood,1200000,4,2,2,264,2004,House
+4 Brindabella Avenue,Aubin Grove,610000,4,2,3,223,2008,House
+3 Kamber Court,Maddington,287000,3,1,1,126,1996,House
+31 Mirreen Court,Karawara,575000,5,3,2,190,2002,House
+41 Strutt Way,Noranda,605000,5,2,2,242,1987,House
+9/56 Matheson Road,Applecross,527500,3,1,1,96,1976,House
+1 Ainsley Court,Camillo,287000,3,1,1,86,1979,House
+35 Port Road,Herne Hill,400000,4,2,,202,1980,House
+41 Heath Road,Roleystone,650000,5,2,2,236,2008,House
+520 Rahnie Road,Wooroloo,430000,4,1,,60,,House
+1A Leach Avenue,Riverton,800000,4,2,2,215,2010,House
+20 Naval Parade,Ocean Reef,730000,4,2,2,250,1989,House
+18 Marquis Court,Gosnells,345000,4,2,2,153,1970,House
+9 Messara Avenue,Henley Brook,346000,4,2,2,172,2003,House
+79 Pearse Road,Wattleup,1230000,4,2,,355,1994,House
+4 Bolaro Place,Hillman,250000,4,1,2,120,1979,House
+231 Secret Harbour Boulevard,Secret Harbour,615000,4,2,2,235,2003,House
+10A Waterview Drive,Woodvale,545000,3,2,2,176,2000,House
+57 Hardy Road,Ashfield,420000,3,1,,145,1963,House
+4 Patman Road,Secret Harbour,455000,4,2,2,234,2007,House
+22 Whitfield Drive,Two Rocks,368000,3,2,2,105,1987,House
+7 Lancely Way,Mirrabooka,457000,3,2,,135,2002,House
+40 Tintagel Loop,Orelia,460000,4,2,2,231,2006,House
+84 June Road,Safety Bay,425000,4,1,1,151,1990,House
+469 Lakeside Drive,Joondalup,460000,3,2,2,137,2000,House
+3 Willow Court,Cooloongup,387500,5,2,3,209,1988,House
+204 Bickley Road,Beckenham,300000,4,1,1,136,1970,House
+100 Edinboro Street,Mount Hawthorn,1330000,4,2,2,147,1920,House
+12 Swinford Approach,Butler,615000,5,2,6,275,2009,House
+41 Welara Circle,Henley Brook,540000,4,2,3,225,2003,House
+8 Francina View,Sinagra,420000,3,2,2,142,2013,House
+2 Canova Road,Butler,430000,4,2,2,187,2006,House
+23 Littlefield Road,High Wycombe,370000,4,2,2,222,2007,House
+7 Bracken Road,Pickering Brook,790000,3,1,2,259,,House
+13 Koolyanga Road,Mullaloo,491000,1,1,3,161,1975,House
+55 Imandra Circuit,Success,560000,4,2,2,159,,House
+28A Marian Street,Innaloo,620000,3,2,2,172,2008,House
+27 Milson Street,South Perth,1700000,3,2,,220,1932,House
+70 Dovedale Street,Harrisdale,730000,4,2,2,262,2014,House
+17 Kalli Street,Golden Bay,315000,3,2,2,132,2012,House
+14 Glastonbury Way,Wattle Grove,645000,4,2,2,267,2007,House
+40 Blackford Street,Mount Hawthorn,875000,3,1,1,115,1936,House
+83 Lamond Street,Alfred Cove,1130000,3,1,2,147,1960,House
+3 Woodford Court,Koondoola,360000,3,1,2,144,1978,House
+41 Forest Grove,Casuarina,775000,5,2,2,225,1996,House
+32 Clianthus Way,Koongamia,390000,3,1,2,126,1965,House
+53 Lateral Loop,Beldon,550000,4,2,2,150,1990,House
+46a Norma Road,Alfred Cove,775000,3,2,2,163,,House
+4 Bertram Street,Darlington,615000,3,2,3,175,1970,House
+8 Folland Parade,Atwell,390000,3,2,1,119,1995,House
+25 Dunrossil Street,Wembley Downs,950000,3,2,4,217,1965,House
+150 Marangaroo Drive,Girrawheen,330000,3,1,1,156,1973,House
+5 Reed Close,Thornlie,420000,4,2,2,238,1990,House
+9 Soho Lane,Harrisdale,597000,3,2,2,218,2010,House
+64 Surf Drive,Secret Harbour,380000,5,2,,240,2010,House
+198 Wright Road,Harrisdale,785000,4,2,2,289,2006,House
+12 Gayton Road,City Beach,1550000,3,1,,144,1963,House
+6 Adriatic Rise,Coogee,805000,4,2,3,251,2001,House
+48 Commercial Road,Shenton Park,1330000,4,2,1,116,1940,House
+1 Graduate Place,Marangaroo,385000,4,2,1,132,1993,House
+14 Darton Loop,Bertram,340000,3,2,2,110,,House
+88 Broun Avenue,Embleton,345000,3,1,2,110,1961,House
+26 Eastwall Parkway,Butler,370000,4,2,2,180,2010,House
+6 Evans Place,Padbury,560000,4,1,1,132,1976,House
+8 Rainsford Way,Parkerville,710000,4,2,2,220,1987,House
+330 Shady Hills View,Bullsbrook,790000,4,2,2,261,2010,House
+20 Christina Street,Hazelmere,500000,3,1,1,110,1968,House
+41 Derry Avenue,Mount Nasura,478000,4,2,2,154,2002,House
+117 Swan Street,Tuart Hill,755000,3,1,5,195,1961,House
+32 Walker Crescent,High Wycombe,399000,3,1,,130,1985,House
+17 Tralee Way,Waterford,880000,5,2,3,180,1984,House
+10 Rosedale Vista,Hocking,459000,4,2,2,181,2003,House
+91 Peet Road,Roleystone,395000,3,1,2,97,1969,House
+24 Holmes Road,Maida Vale,880000,4,2,2,180,1981,House
+3A Calgary Street,Ardross,687000,3,1,3,85,1965,House
+68 Koolbardi Loop,Byford,420000,4,2,2,209,2014,House
+15 Caliban Way,Coolbellup,484000,3,1,3,136,1965,House
+25 Ladywell Crescent,Butler,285000,3,2,2,105,2010,House
+294 Campersic Road,Herne Hill,515000,3,3,2,215,1989,House
+30 Plumdale Way,Woodvale,585000,4,2,2,204,1994,House
+18 Manhattan Avenue,Iluka,787000,5,2,2,256,2004,House
+3 Surrey Road,Wilson,825000,3,2,2,217,2006,House
+3/43 Halliday Street,Bayswater,640000,3,2,2,164,2013,House
+38 Carlhausen Close,Atwell,577500,4,2,2,183,1995,House
+19 Solquest Way,Cooloongup,230000,3,2,4,116,1987,House
+4 Aaron Lane,Parmelia,315000,3,2,2,146,1998,House
+2 Millard Close,Ashfield,435000,4,2,2,140,,House
+159B Dampier Avenue,Kallaroo,478000,3,1,1,89,1986,House
+4 Glenfinnan Court,Hamersley,605000,4,2,2,231,1981,House
+27 Modena Place,Balga,425000,3,2,2,144,2008,House
+15 Mackie Road,Roleystone,615000,3,2,2,152,2006,House
+15 Jordan Street,Haynes,208000,4,2,,158,2015,House
+22 Arania Place,Bedfordale,849000,4,2,2,256,2008,House
+30 Melbourne Loop,Clarkson,385000,3,2,2,167,2010,House
+3142 Albany Highway,Mount Nasura,642000,4,2,3,232,2002,House
+50 Macadamia Avenue,Baldivis,385000,4,2,2,168,2012,House
+17 Abrolhos Close,Shelley,605000,3,1,2,110,1985,House
+35A Langley Road,Bayswater,540000,3,2,2,126,2007,House
+29 Wannell Street,Queens Park,800000,4,2,2,258,2012,House
+6 Curlewis Drive,Baldivis,400000,4,2,2,175,2006,House
+52 Amanda Drive,Camillo,290000,4,1,2,107,1971,House
+205 Molloy Trail,Parkerville,730500,3,2,,235,,House
+60 Prinsep Road,Jandakot,1110000,4,3,2,498,2009,House
+17 Meridian Drive,Mullaloo,490000,3,1,1,110,1986,House
+48 Coleman Crescent,Melville,535000,3,1,2,82,1967,House
+2 Prosser Way,Myaree,643000,3,2,2,134,1998,House
+155 Kanangra Court,Stoneville,855000,4,2,2,273,,House
+43 Mandarin Way,Seville Grove,310000,4,1,1,100,1986,House
+5 Wungong Close,Wungong,989000,4,2,2,329,1988,House
+20 SMALL STREET,Beechboro,379000,3,1,1,85,1985,House
+2 Hilltop Close,Mahogany Creek,500000,4,2,2,178,1996,House
+37 Victoria Street,Mosman Park,1300000,4,1,1,177,1925,House
+33 Parakeet Way,Coogee,855000,5,3,3,191,1987,House
+44 Folland Parade,Atwell,530000,3,2,4,215,1999,House
+15 Clianthus Way,Koongamia,285000,3,1,1,82,1965,House
+66 Parnell Avenue,Marmion,845000,4,2,4,167,1980,House
+28 Amanda Drive,Camillo,300000,3,1,1,92,1972,House
+25 Grover Way,Medina,230000,2,1,,76,1954,House
+16 Dianella Link,Sinagra,525000,4,2,2,210,,House
+33 Hanley Street,Stoneville,560000,4,2,2,187,,House
+13 Swanson way,Secret Harbour,550000,4,2,6,231,,House
+4A Tidewater Way,Ascot,838100,4,3,2,235,1999,House
+48B Pulo Road,Brentwood,600000,2,1,1,88,1970,House
+14 Hobbs Avenue,Dalkeith,2150000,4,2,2,242,1939,House
+2 Irma Close,Huntingdale,365000,4,2,2,141,1995,House
+2 St Louis Avenue,Hocking,429000,3,2,4,118,2006,House
+6 Pitman Street,Myaree,1310000,4,2,2,272,2008,House
+1 Davis Court,Woodlands,1280000,4,3,4,264,1980,House
+50 Davallia Road,Duncraig,690000,4,2,2,157,1973,House
+18 Honours Rise,Marangaroo,355000,4,2,1,114,,House
+13 Glenelg Avenue,Wembley Downs,1125000,4,2,2,198,1965,House
+10 Clydesdale Street,Alfred Cove,855000,4,2,2,189,1994,House
+28 Addlewell Glen,Kiara,395000,4,2,1,111,1993,House
+24 Boulder Street,Bentley,620000,3,1,1,130,1972,House
+11 Duncombe Grove,Quinns Rocks,350000,3,2,4,122,,House
+5A Gray Close,Kiara,433000,4,2,2,530,1989,House
+10 Stillwater Street,Southern River,505000,4,2,2,259,2012,House
+18 Macdermott Parade,Darch,620000,4,2,2,209,2004,House
+1 Coronado Ridge,Iluka,1015000,5,3,2,309,1995,House
+150 Bradford Street,Yokine,1025000,3,2,2,240,2009,House
+16 Fernando Parkway,Iluka,1770000,4,3,2,409,2013,House
+226 Herbert Street,Doubleview,682500,3,2,4,180,2006,House
+1 Kalara Way,Koongamia,172000,3,2,1,135,2003,House
+9 Tolbury Retreat,Kiara,410000,4,2,2,139,1994,House
+5A Holmesdale Road,Woodbridge,655000,3,2,2,188,1920,House
+14 Winthrop Drive,Winthrop,800000,4,2,2,310,,House
+24 Sabina Street,Woodlands,1260000,3,1,2,190,1995,House
+6 Armitage Road,Kelmscott,440000,3,2,2,184,1960,House
+21 Warrener Gardens,Gwelup,935000,4,2,2,224,1994,House
+6 Sophia Street,Bellevue,512000,4,3,4,193,1920,House
+25 Moonlight Cove,Brentwood,1060000,3,2,2,278,2009,House
+25 Houston Avenue,Dianella,765000,3,1,,94,1962,House
+29 Crossandra Way,Greenwood,580000,5,2,3,206,1976,House
+12 Link Way,Cooloongup,330000,4,2,2,180,1994,House
+18 Henry Street,Henley Brook,1025000,3,1,1,120,1991,House
+33 Champion Drive,Bertram,445000,4,2,2,243,2003,House
+394 Bulwer Street,West Perth,860000,3,1,2,121,1910,House
+29 Gwynne Corner,Jane Brook,565000,4,2,2,180,2001,House
+11 Condicote Loop,Butler,310000,4,2,2,173,2006,House
+13 Impressions Way,Singleton,485000,4,2,2,222,2006,House
+34 St Catharines Promenade,Champion Lakes,255000,4,2,,207,2015,House
+22 Reddy Avenue,Mundaring,800000,5,3,2,300,2011,House
+40 Mainsail Drive,Ocean Reef,847500,4,2,2,250,1993,House
+40 Windsor Road,East Fremantle,1610000,4,3,2,261,1937,House
+7 Glen Iris Drive,Jandakot,712000,4,2,2,290,1996,House
+19A O'rourke Close,Murdoch,495000,3,2,1,166,1987,House
+39 More Crescent,Bull Creek,750000,4,2,,258,1974,House
+10 Wingate Avenue,Hazelmere,505000,3,1,1,166,1970,House
+15 St Lucia Road,Iluka,1250000,4,3,2,299,2010,House
+18 Fairbairn Road,Coogee,1340000,4,3,2,472,2003,House
+3 Inez Pass,Kinross,522500,4,2,2,194,2003,House
+15 Salterforth Road,Butler,370000,3,2,2,154,2005,House
+8 St Leonards Avenue,West Leederville,1725000,4,2,1,282,1935,House
+58 Meadowbank Gardens,Hillarys,985000,4,2,2,257,1994,House
+9 Sunninghill Road,Stoneville,445000,3,1,1,100,,House
+113B Hampton Road,South Fremantle,730000,3,1,2,127,1993,House
+25 Gray Road,Gooseberry Hill,1000000,4,2,2,185,1998,House
+23 Cook Street,Darlington,650000,4,2,2,185,1979,House
+139 Bushmead Road,Hazelmere,487500,3,1,2,133,1959,House
+3/28 Marjorie Avenue,Shelley,430000,3,1,2,126,1987,House
+228 King Road,Oldbury,725000,4,4,6,198,1999,House
+113 Fruit Tree Crescent,Forrestfield,500000,4,2,2,190,2004,House
+27 Airlie Chase,Clarkson,372000,3,2,2,162,2009,House
+30 Santa Cruz Parkway,Secret Harbour,490000,4,2,3,248,,House
+9 Myago Court,South Guildford,400000,3,1,1,105,1994,House
+39 Cassino Drive,Stirling,1157000,5,2,2,253,2009,House
+41 Dutton Way,Singleton,340000,3,1,1,160,1989,House
+14 Brindabella Avenue,Aubin Grove,745000,4,2,3,252,2007,House
+135 View Terrace,Bicton,730000,3,1,,144,1950,House
+23 Gayton Road,City Beach,1520000,4,2,2,220,1965,House
+19 Opal Way,Mount Richon,589000,4,2,2,164,2002,House
+4 Springside Crescent,Glen Forrest,460000,4,1,2,113,,House
+11 Roxwell Way,Girrawheen,310000,4,1,2,93,1975,House
+10 Hollingsworth Avenue,Koondoola,396000,4,1,2,162,1977,House
+30 Lewis Road,Kalamunda,417000,3,1,6,135,1973,House
+177 Hamilton Street,Queens Park,380000,3,2,3,140,2000,House
+8a Baker Street,Fremantle,735000,2,1,2,123,1931,House
+24 Pelham Gardens,Canning Vale,580000,4,2,,211,,House
+20 Algarve Way,Hillarys,1400000,4,2,,350,2004,House
+6 Tempest Corner,Dayton,350000,3,2,2,129,2014,House
+14 Craghill Way,Oakford,980000,4,3,4,288,1986,House
+9 Rothbury Road,Embleton,555000,3,1,2,175,1962,House
+15 Balfour Street,Huntingdale,315000,3,1,2,106,1975,House
+12A Manning Road,Cannington,365000,3,1,1,85,1972,House
+100 Falls Heights,Gidgegannup,730000,4,2,6,196,2009,House
+7 Davey Road,Mundijong,347500,3,2,2,206,1989,House
+46 Somerset Crescent,Mosman Park,1090000,4,2,2,179,1992,House
+6495 Great Eastern Highway,Mundaring,485000,4,1,1,155,,House
+45 Spigl Way,Bateman,830000,4,2,2,209,1978,House
+9 Blackbird Glen,Quinns Rocks,256001,3,1,1,93,1995,House
+30 Longford Road,Beaconsfield,615000,3,1,,177,,House
+54 New England Drive,Hillarys,770000,4,2,2,195,1990,House
+19 Sapphire Crescent,Balcatta,699000,4,2,2,229,2000,House
+10 Louise Place,Gnangara,900000,3,2,2,185,,House
+28 Bellanger Drive,Beldon,480000,3,1,1,102,1984,House
+4 Donnelly Ramble,Wanneroo,505000,3,2,2,210,,House
+67 Minora Road,Dalkeith,2100000,5,2,2,368,1937,House
+530 Brooking Road,Mahogany Creek,380000,3,1,3,128,1963,House
+280 Bushlands Road,Hovea,1100000,3,2,2,336,1991,House
+53 Cuddlepie Turn,Banksia Grove,390000,3,2,2,137,2015,House
+56 Hazelmere Circus,Hazelmere,855000,4,1,1,176,1950,House
+191 Aldersyde Road,Bickley,1250000,4,2,4,243,1994,House
+14 Mell Road,Spearwood,600000,4,2,2,210,2016,House
+184 Bennett Springs Drive,Bennett Springs,520000,5,2,4,204,2003,House
+174 River Way,Salter Point,1500000,3,4,,375,1975,House
+25 Speedy Cheval Street,East Fremantle,950000,5,2,2,199,1998,House
+32 Wade Street,Embleton,500000,3,1,,91,1964,House
+91 Huntsman Terrace,Jane Brook,590000,4,2,2,224,2004,House
+50A Carrington Street,Palmyra,740000,4,2,2,220,1999,House
+83 Fairmount Boulevard,Brabham,520000,4,2,2,249,,House
+34 Heritage Terrace,Gnangara,152500,3,1,2,306,1999,House
+34 Harwood Pass,Darling Downs,840000,4,2,5,219,2004,House
+555 Lion Street,Sawyers Valley,215000,1,1,1,363,2010,House
+70 King Road,Beechboro,299000,3,1,,138,,House
+17 The Boardwalk,Ascot,755000,3,2,2,198,1999,House
+10 Wirraway Loop,Maylands,930000,4,2,2,304,2001,House
+36B Harcourt Street,Bassendean,380000,3,1,1,91,1986,House
+5 Holmfirth Street,Menora,850000,3,1,2,139,1968,House
+3 Woodlea Place,Sawyers Valley,87500,3,1,2,147,2003,House
+8/8 Mounts Bay Road,Crawley,2050000,3,3,2,181,2006,House
+11 Rossmore Drive,Madeley,595000,4,2,2,227,2005,House
+8 Dorset Cove,Mount Claremont,1250000,3,2,2,235,,House
+2 Drury Court,Marmion,920000,5,3,2,200,1980,House
+4 Tolj Loop,Aveley,511000,5,2,2,250,2010,House
+16 Coolabah Drive,Mount Nasura,321025,3,1,1,106,1973,House
+24 Sumich Gardens,Coogee,710000,4,2,2,247,2000,House
+14 Woolgar Way,Lockridge,330000,3,1,1,96,1979,House
+22 Glastonbury Street,Leda,392500,4,2,2,181,2008,House
+635 Coulston Road,Boya,365000,4,3,1,130,1972,House
+37 Thornbill Way,Churchlands,1690000,4,2,2,374,2012,House
+12A Dania Way,Butler,285000,3,2,1,111,2012,House
+32 Letsom Way,Langford,243000,3,1,1,90,1970,House
+15 Arabella Mews,Currambine,460000,4,2,2,192,2000,House
+40 Sunstone Drive,Wellard,407500,4,2,2,190,2012,House
+4B Cass Boulevard,Darch,440000,3,2,2,138,2008,House
+35B Star Street,Carlisle,420000,3,2,2,113,1999,House
+55 Bedfordale Hill Road,Mount Richon,649000,4,2,2,189,2013,House
+1 Till Street,Herne Hill,370000,3,1,1,100,1970,House
+55 Kitchener Street,Trigg,760000,3,1,1,94,1965,House
+29 Robinson Terrace,Daglish,1200000,3,2,4,230,1930,House
+63 Gateway Boulevard,Canning Vale,620000,4,2,2,226,2003,House
+7 Carcoo Court,Beckenham,535000,5,2,2,201,2003,House
+30 Heidelberg Road,Bickley,1100000,4,3,4,225,1910,House
+67 Delton Way,Atwell,545000,4,2,2,206,,House
+8 McNess Road,Kalamunda,720000,3,1,2,250,1965,House
+3 Jodrell Road,Gwelup,725000,4,2,2,187,2000,House
+10 Hogg Avenue,Salter Point,1225000,4,2,2,291,2003,House
+4 Carbine Street,Ascot,560000,2,1,,150,1950,House
+20 Tarrup Street,Chidlow,560000,3,1,2,95,1960,House
+4 Bow Place,Mullaloo,890000,4,2,2,161,1988,House
+117 Venturi Drive,Ocean Reef,949000,7,3,4,294,1989,House
+7 Mica Court,Carine,944000,4,3,2,179,1982,House
+129 Lawler Street,Subiaco,1070000,4,2,3,206,1999,House
+39 Nunney Road,Orelia,325000,4,2,2,139,2005,House
+6/240 Burke Drive,Attadale,840000,3,2,2,133,1987,House
+113 Hampton Road,South Fremantle,830137,3,2,2,167,1939,House
+4 Montego Rise,Iluka,1330000,5,3,2,333,2000,House
+11 HELICONIA TURN,Stirling,860000,4,2,4,217,2004,House
+10B Spinaway Crescent,Brentwood,750000,2,1,1,84,1980,House
+23B David Street,Kensington,745000,3,2,2,164,1998,House
+19 Sekem Street,North Perth,630000,2,1,1,129,2000,House
+1 Babbler Court,Maida Vale,570000,4,2,2,225,2003,House
+35 Brooking Road,Mahogany Creek,619000,2,1,2,123,1925,House
+5 Forestville Court,Kallaroo,1310000,3,2,,318,1990,House
+23 Walden Close,Gidgegannup,750000,4,2,4,169,2003,House
+27 Tucker Street,Medina,290000,3,1,3,101,1965,House
+8 Samsun Way,Mindarie,630000,4,2,2,222,2011,House
+223 Scarborough Beach Road,Doubleview,810000,3,2,6,136,1963,House
+28 Broun Avenue,Embleton,445000,3,1,1,158,1970,House
+62 Peterborough Circle,North Lake,250000,3,2,2,140,,House
+25 Corona Way,Belhus,1000000,4,2,4,204,1995,House
+5/38 Burt Street,North Perth,475000,3,1,1,80,,House
+30 Lancer Way,Alexander Heights,395000,6,2,2,168,1993,House
+49 David Street,Kensington,890000,3,2,3,129,1950,House
+35 MERCURY STREET,Carlisle,450000,3,2,2,132,2001,House
+20 Luscombe Street,Kewdale,305000,3,1,2,125,1970,House
+8 Boyle Road,Ridgewood,400000,4,2,2,189,2006,House
+11 Ostend Parade,Mindarie,580000,4,2,2,190,1997,House
+11A Ventnor Avenue,Mount Pleasant,850000,3,2,2,192,1995,House
+25 Masefield Avenue,North Lake,665000,4,2,2,179,1987,House
+17 Wahroonga Way,Greenwood,545000,4,1,1,154,1976,House
+5A Bridget Place,Shelley,1200000,5,2,2,93,1975,House
+29 Scott Street,Koongamia,335000,4,1,2,500,1986,House
+9 Corfu Pass,Port Kennedy,375000,4,2,2,182,2003,House
